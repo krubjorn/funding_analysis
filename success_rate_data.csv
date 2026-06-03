@@ -1,0 +1,611 @@
+﻿PI/Co-I,Dept,Project Ref,Short Title,Funder,Lead Department?,funder_code,Financial Year,Scheme Name,Scheme Type,cost_type_description,Fund Deci Status Desc,Amount Awarded,Approved,Approved *,Automatically Unsuccessful,Decision Pending *,Success Rate %,Unsuccessful,Unsuccessful *
+"Li-LEAVER, Xiao Dr",JQ,2404JQ001/VS1,Understanding Micromobility,AAA Foundation for Traffic Safety,Lead dept costings,AAAFTS,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,0,1
+"DE BERENGUER CESAR, ERIKA Dr",AF,2406AF002/LG7,Amazon Forest flammability,Advanced Research and Invention Agency (ARIA),Lead dept costings,ARIA,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,0,1
+"HALL, JAMES Prof",AF,2312AF003/VS1,Allianz Reinsurance Climate,Allianz SE Reinsurance,Lead dept costings,ALLIANZ,FY 2324,Costing template for business funders (standard),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"VILES, HEATHER Prof",AC,2101AC010/GW1,AHRC,Arts and Humanities Research Council,Lead dept costings,AHRC,FY 2021,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"ROSE, GILLIAN Prof",AC,2201AC002/GW1,Call the midwife,Arts and Humanities Research Council,Lead dept costings,AHRC,FY 2122,Generic v2,Standard,Application,Approved by funder,"£16,292.41",1,1,91.25,0,100%,0,0
+"WILHELM, KATRIN Dr",AC,2301AC003/GW1,Talking stones,Arts and Humanities Research Council,Lead dept costings,AHRC,FY 2223,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MALHI, YADVINDER Prof",AC,2306HQ001/VW1,CoGroLabs,Arts and Humanities Research Council,Collaborating dept costings,AHRC,FY 2223,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Watson-LEAVER, Alice Dr",AC,2307AC004/LG7,BBC Follow-on,Arts and Humanities Research Council,Lead dept costings,AHRC,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"WILHELM, KATRIN Dr",AC,2308AC004/AG8,REFRESH,Arts and Humanities Research Council,Lead dept costings,AHRC,FY 2324,Generic v2,Standard,Application,Approved by funder,"£167,300.81",1,1,91.25,0,100%,0,0
+"VILES, HEATHER Prof",AC,2309AC002/AG8,OCHRE,Arts and Humanities Research Council,Lead dept costings,AHRC,FY 2324,Generic v2,Standard,Application,Approved by funder,"£97,573.00",1,1,91.25,0,100%,0,0
+"GROVE, RICHARD Dr",AC,2405E0001/HA2,EnRICH Communities,Arts and Humanities Research Council,Collaborating dept costings,AHRC,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Blaxter, Tamsin Dr",AF,2404AF001/LG7,"Perfect pasts, possible future",Arts and Humanities Research Council,Lead dept costings,AHRC,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"GARNETT, TARA Dr",AF,2404AF003/LG7,Futures of Food,Arts and Humanities Research Council,Lead dept costings,AHRC,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MIDDLETON, JENNIE Dr",JQ,2108JQ001/GW1,Sites of Being,Arts and Humanities Research Council,Lead dept costings,AHRC,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"VILES, HEATHER Prof",AC,2411AC001/GB5,Compound climate hazards,Arts and Humanities Research Council,Lead dept costings,AHRC,FY 2425,Generic v2,Standard,Application,Approved by funder,"£111,680.00",1,1,91.25,0,100%,0,0
+"VILES, HEATHER Prof",AC,2501AC003/VS1,JRACCH,Arts and Humanities Research Council,Lead dept costings,AHRC,FY 2425,Generic v2,Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"Azzouz, Ammar Dr",AC,2509AC010/VS1,ORONTES,Arts and Humanities Research Council,Lead dept costings,AHRC,FYTD 2526,Generic v2,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"HIRONS, MARK Dr",AF,2503M3005/FT2,ULLRA,Arts and Humanities Research Council,Collaborating dept costings,AHRC,FYTD 2526,Large Grants v2,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"GASPAR VERISSIMO, DIOGO Dr",AF,2410AF003/VS1,nature documentaries,Arts and Humanities Research Council,Lead dept costings,AHRC,FY 2425,Standard Grant/Early Career Research Grant v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SCHUMACHER-LEAVER, JACOB Dr",LD,2410LD002/VS1,Africa Transition Initiative,Arts and Humanities Research Council,Lead dept costings,AHRC,FY 2425,Standard Grant/Early Career Research Grant v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"FAWCETT, TINA Dr",AF,2410AF011/VS1,STEP FORWARD,Askehave Climate Foundation,Lead dept costings,ASKEHAVE,FY 2425,Generic,Standard,Application,Approved by funder,£0.00,0,0,91.25,0,0%,0,1
+"SLATER, LOUISE Prof",AC,2101AC006/GW1,Species persistence,Australian Research Council,Lead dept costings,AUSRC,FY 2021,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"OBERSTEINER, MICHAEL Prof",AF,2102AF004/GW1,Land use futures,Australian Research Council,Lead dept costings,AUSRC,FY 2021,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"CALDECOTT, BENJAMIN Dr",LD,2507LD006/JH13,HayStack,Austrian Research Promotion Agency (FFG),Lead dept costings,FFG-AT,FYTD 2526,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"SADDINGTON, LIAM Mr",AC,2112AC003/NS4,Reclaiming a More Resilient,Axa Research Fund,Lead dept costings,AXARF,FY 2122,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Burke-LEAVER, Matthew Dr",LD,2404LD006/AS16,Panmure House Prize,Baillie Gifford & Co,Lead dept costings,BAILGIFF,FY 2324,Costing template for business funders (standard),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"DARBY, SARAH Dr",AF,2007DF001/VN3,ElectriCAM,Biotechnology & Biological Sciences Research Council,Collaborating dept costings,BBSRC,FY 2021,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"INGRAM, JOHN Dr",AF,2103AF002/NS4,Transforming UK food systems,Biotechnology & Biological Sciences Research Council,Lead dept costings,BBSRC,FY 2021,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"ZUREK, MONIKA Dr",AF,2103AF001/NS4,Fruit and vegetables,Biotechnology & Biological Sciences Research Council,Lead dept costings,BBSRC,FY 2122,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"INGRAM, JOHN Dr",AF,2103AF003/GW1,BeanMeals,Biotechnology & Biological Sciences Research Council,Lead dept costings,BBSRC,FY 2122,Generic v2,Standard,Application,Approved by funder,"£644,114.75",1,1,91.25,0,100%,0,0
+"ZUREK, MONIKA Dr",AF,2104AF002/GW1,UK food systems,Biotechnology & Biological Sciences Research Council,Lead dept costings,BBSRC,FY 2122,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MESSINA, JANE Dr",AC,2210AC004/GW1,Animal vector borne diseases,Biotechnology & Biological Sciences Research Council,Lead dept costings,BBSRC,FY 2223,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"ZUREK, MONIKA Dr",AF,2408EP005/CP4,Robson UKRI BBSRC Aug24,Biotechnology & Biological Sciences Research Council,Collaborating dept costings,BBSRC,FY 2425,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SMITH, ALISON Ms",AF,2307AF006/LG7,LUNZ Hub,Biotechnology & Biological Sciences Research Council,Lead dept costings,BBSRC,FY 2223,Standard Grant Research Grant v2,Standard,Application,Approved by funder,"£55,529.03",1,1,91.25,0,100%,0,0
+"MALHI, YADVINDER Prof",AC,2408AC001/VS1,Energetics,Biotechnology & Biological Sciences Research Council,Lead dept costings,BBSRC,FY 2425,Standard Grant Research Grant v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SCHWANEN, TIM Prof",JQ,2109AE004/HP2,BA-KF-SAME-SOGE-Good City,British Academy,Collaborating dept costings,BRITAC,FY 2122,Academy Research Projects v4,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HEPBURN, CAMERON Prof",LD,2110LD002/AS16,Just transition within sectors,British Academy,Lead dept costings,BRITAC,FY 2122,Academy Research Projects v4,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SCHWANEN, TIM Prof",JQ,2408JQ001/VS1,Politics of Just Transitions,British Academy,Lead dept costings,BRITAC,FY 2425,Academy Research Projects v4,Standard,Application,Approved by funder,"£214,627.45",1,1,91.25,0,100%,0,0
+"KRISHNAN, SNEHA Dr",AC,2010AC007/GW1,Errant girl,British Academy,Lead dept costings,BRITAC,FY 2021,BA Wolfson Fellowship,Fellowship,Application,Rejected by funder,"£129,221.17",0,1,91.25,0,100%,1,0
+"MURREY-NDEWA, AMBER Dr",AC,2111AC006/GW1,Extraction & Social Scientist,British Academy,Lead dept costings,BRITAC,FY 2122,BA Wolfson Fellowship,Fellowship,Application,Rejected by funder,"£128,121.72",0,1,91.25,0,100%,1,0
+"Zhang, Huanyuan Mr",AF,2410AF010/VS1,Leveraging AI,British Academy,Lead dept costings,BRITAC,FY 2425,BA/Leverhulme Small Research Grants v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SEDDON, NATHALIE Prof",LD,2510LD003/MO2,TNBS,British Academy,Lead dept costings,BRITAC,FYTD 2526,British Academy/Leverhulme Snr Res Fellowship v3,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"AHEARN, ARIELL Dr",AC,2009AC008/GW1,Gobi,British Academy,Lead dept costings,BRITAC,FY 2021,Generic (v2),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"IVES, MATTHEW Dr",LD,2109LD008/AS16,Just Transition,British Academy,Lead dept costings,BRITAC,FY 2122,Generic (v2),Standard,Application,Unknown,£0.00,0,0,91.25,0,0%,1,1
+"MURREY-NDEWA, AMBER Dr",AC,2303AC001/GW1,Critical writing,British Academy,Lead dept costings,BRITAC,FY 2223,Generic (v2),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"AHEARN, ARIELL Dr",AC,2303AC002/GW1,Climate change and crisis,British Academy,Lead dept costings,BRITAC,FY 2223,Generic (v2),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"BARNES, JACOB Dr",AF,2401AF003/VS1,Barnes BA Fellowship,British Academy,Lead dept costings,BRITAC,FY 2324,Generic (v2),Standard,Application,Approved by funder,"£110,784.71",1,1,91.25,0,100%,0,0
+"SCHWANEN, TIM Prof",JQ,2402JQ001/VS1,Low-carbon Jeepney Transitions,British Academy,Lead dept costings,BRITAC,FY 2324,Generic (v2),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Michette, Martin Dr",AC,2408AC003/LG7,SXNCH,British Academy,Lead dept costings,BRITAC,FY 2425,Generic (v2),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HAMPTON, SAMUEL Dr",AF,2408AF005/LG7,SME Resilience Ukraine,British Academy,Lead dept costings,BRITAC,FY 2425,Generic (v2),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HIRONS, MARK Dr",AF,2501AF003/HB6,STEEP,British Academy,Lead dept costings,BRITAC,FY 2425,Generic (v2),Standard,Application,Approved by funder,"£96,585.20",1,1,91.25,0,100%,0,0
+"SCHWANEN, TIM Prof",JQ,2501JQ001/VS1,Strengthening Public Transport,British Academy,Lead dept costings,BRITAC,FY 2425,Generic (v2),Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Morsing, Mette Prof",LD,2409LD001/AS16,Universities Driving Africa’s,British Academy,Lead dept costings,BRITAC,FY 2425,Generic (v2),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SCHUMACHER-LEAVER, JACOB Dr",LD,2411LD007/BDW1,Jacob Schumacher BA FCDO,British Academy,Lead dept costings,BRITAC,FY 2425,Generic (v2),Standard,Application,Submitted to funder,£0.00,0,0,91.25,0,0%,0,1
+"HOQUE, SONIA Dr",LD,2502LD001/VS1,Driving impacts through scienc,British Academy,Lead dept costings,BRITAC,FY 2425,Generic (v2),Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Dodsworth, Jennifer Miss",AC,2507AC004/VS1,Innovation Fellowships 2025-26,British Academy,Lead dept costings,BRITAC,FYTD 2526,Generic (v2),Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"Hafferty, Caitlin Dr",AF,2507AF006/VS1,Innovation Fellowships 2025-26,British Academy,Lead dept costings,BRITAC,FYTD 2526,Generic (v2),Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"DYER, ELLEN Dr",LD,2509LD001/VS1,"Climate Forecasting, Adaptatio",British Academy,Lead dept costings,BRITAC,FYTD 2526,Generic (v2),Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Liu, Jianxiao Dr",AC,2502AC003/HB6,Canine Citizenship BA,British Academy,Lead dept costings,BRITAC,FY 2425,International Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Singh, Renu",AC,2502AC004/VS1,Moving Up and On,British Academy,Lead dept costings,BRITAC,FY 2425,International Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Myat, Su Su",AC,2503AC001/VS1,The Politics of Urban Digital,British Academy,Lead dept costings,BRITAC,FY 2425,International Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Mariyam, Dincy",AC,2503AC002/VS1,Can Tourism Inspire,British Academy,Lead dept costings,BRITAC,FY 2425,International Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Funke, Franziska Dr",LD,2502LD002/HB6,Ready to switch?,British Academy,Lead dept costings,BRITAC,FY 2425,International Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"KLINKE, IAN Dr",AC,2212AC002/GW1,Beyond Atlanticism,British Academy,Lead dept costings,BRITAC,FY 2223,Mid-career Fellowship Grant v2,Fellowship,Application,Approved by funder,"£153,180.08",1,1,91.25,0,100%,0,0
+"MIDDLETON, JENNIE Dr",AC,2507AC003/VS1,Masked mobilities,British Academy,Lead dept costings,BRITAC,FYTD 2526,Mid-career Fellowship Grant v2,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"HOPKINS, DEBORAH Dr",AC,2508AC001/GB5,As Smooth As Grit,British Academy,Lead dept costings,BRITAC,FYTD 2526,Mid-career Fellowship Grant v2,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"GASPAR VERISSIMO, DIOGO Dr",AF,2507AF007/VS1,Why We Love (Some) Wildlife,British Academy,Lead dept costings,BRITAC,FYTD 2526,Mid-career Fellowship Grant v2,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"PALMER, ALEXANDRA Dr",AC,2101AC005/GW1,Ethics in the zoo,British Academy,Lead dept costings,BRITAC,FY 2021,Postdoctoral Fellowship Grant v3,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Azzouz, Ammar",AC,2201AC005/NS4,Slow violence in the city,British Academy,Lead dept costings,BRITAC,FY 2122,Postdoctoral Fellowship Grant v3,Fellowship,Application,Approved by funder,"£294,039.20",1,1,91.25,0,100%,0,0
+"Srivastav, Sugandha",LD,2201LD004/LC10,Climate Compatible Future,British Academy,Lead dept costings,BRITAC,FY 2122,Postdoctoral Fellowship Grant v3,Fellowship,Application,Approved by funder,"£306,877.60",1,1,91.25,0,100%,0,0
+"Schwarz, Moritz",LD,2302LD002/GW1,Integrated assessment model,British Academy,Lead dept costings,BRITAC,FY 2223,Postdoctoral Fellowship Grant v3,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Turnbull-LEAVER, Jonathon Dr",AF,2409AF001/VS1,Nightlife,British Academy,Lead dept costings,BRITAC,FY 2425,Postdoctoral Fellowship Grant v3,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Wrigley, Charlotte",AC,2211AC006/CO5,Avian Anthropocenes,British Academy,Lead dept costings,BRITAC,FY 2223,Visiting Fellowship v2,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"KLINKE, IAN Dr",AC,2410AC004/HB6,BA Visiting Fellowship,British Academy,Lead dept costings,BRITAC,FY 2425,Visiting Fellowship v2,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"KHOSLA, RADHIKA Dr",LD,2010LD002/AS16,Cross cultural perspectives,British Academy,Lead dept costings,BRITAC,FY 2021,XXGlobal Challenges Research Fund,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Ansar, Atif",LD,2010LD003/AS16,Preventing the Flood,British Academy,Lead dept costings,BRITAC,FY 2021,XXGlobal Challenges Research Fund,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SCHWANEN, TIM Prof",JQ,2106JQ001/GW1,Newton,British Academy,Lead dept costings,BRITAC,FY 2021,XXNewton International Fellowship Grant,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Bennett, Aoife Dr",AF,2509AF001/GB5,Reverse Gaze,British Council,Lead dept costings,BC,FYTD 2526,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Zhang, Huanyuan Mr",AF,2403AF001/LG7,Leveraging AI to map - 1946,British Ecological Society,Lead dept costings,BES,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"CHARLES, KATRINA Prof",AC,2106AT008/TW1,The silent pandemic,Centers for Disease Control and Prevention,Collaborating dept costings,CDC,FY 2021,Generic,Standard,Application,Unknown,£0.00,0,0,91.25,0,0%,1,1
+"LORIMER, JAMIE Prof",AC,2508BZ004/NH5,Healthy and Sustainable Diets,Chellaram Foundation,Collaborating dept costings,CHELL,FYTD 2526,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"CLARK, MICHAEL Mr",LD,2508BZ004/NH5,Healthy and Sustainable Diets,Chellaram Foundation,Collaborating dept costings,CHELL,FYTD 2526,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"GASPAR VERISSIMO, DIOGO Dr",AF,2505AF005/VS1,Beyond the Lab: Public,Colossal Biosciences Inc.,Lead dept costings,COBIOSCI,FY 2425,Costing template for business funders (standard),Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"KHAN, NAMEERAH Dr",AC,2511AC002/EL3,NK Colt Foundation,Colt Foundation,Lead dept costings,COLT,FYTD 2526,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"ROSE, GILLIAN Prof",AC,2307AC007/LG7,Test-Tube TV,Daphne Jackson Memorial Fellowship Trust,Lead dept costings,DJMFT,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"WASHINGTON, RICHARD Prof",AC,2404AC002/EG8,HILLY,Daphne Jackson Memorial Fellowship Trust,Lead dept costings,DJMFT,FY 2324,Generic,Standard,Application,Approved by funder,"£137,500.71",1,1,91.25,0,100%,0,0
+"ALLEN, MYLES Prof",AC,2104AC002/GW1,BEIS,"Department for Business, Energy and Industrial Strategy",Lead dept costings,BEIS,FY 2021,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"FAWCETT, TINA Dr",AF,2201AF001/GW1,Clean Heat Streets,"Department for Business, Energy and Industrial Strategy",Lead dept costings,BEIS,FY 2122,Generic,Standard,Application,Approved by funder,"£23,842.50",1,1,91.25,0,100%,0,0
+"MONTES STREVENS-LEAVER, CHLOE Dr",AC,2209AC009/GW1,Ekiti state,Department for Environment Food & Rural Affairs,Lead dept costings,DEFRA,FY 2223,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"DE BERENGUER CESAR, ERIKA Dr",AF,2406AF001/LG7,Climate-resilient forest,Department for Environment Food & Rural Affairs,Lead dept costings,DEFRA,FY 2324,Generic,Standard,Application,Approved by funder,"£23,500.79",1,1,91.25,0,100%,0,0
+"CLARK, MICHAEL Mr",LD,2401CB001/EH4,WRAP collaboration,Department for Environment Food & Rural Affairs,Collaborating dept costings,DEFRA,FY 2324,Generic,Standard,Application,Approved by funder,"£134,369.06",1,1,91.25,0,100%,0,0
+"Zilli, Marcia Dr",AC,2407AC004/LG7,New CSSP-Brazil,"Department for Science, Innovation and Technology",Lead dept costings,DSIT,FY 2425,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HART, NEIL Dr",AC,2503AC004/HB6,Physical drivers of drought,"Department for Science, Innovation and Technology",Lead dept costings,DSIT,FY 2425,Generic,Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"HART, NEIL Dr",AC,2503AC006/HB6,Yr 2-3: BZL25_2.1,"Department for Science, Innovation and Technology",Lead dept costings,DSIT,FY 2425,Generic,Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"Suliman, Amr Mr",AF,2501DF006/KW4,OCEMS,"Department for Science, Innovation and Technology",Collaborating dept costings,DSIT,FY 2425,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Budnitz, Hannah Dr",JQ,2404JQ001/EG8,QUISEM,Department for Transport,Lead dept costings,DFT,FY 2324,Generic,Standard,Application,Approved by funder,"£42,950.00",1,1,91.25,0,100%,0,0
+"INGRAM, JOHN Dr",AF,2105AF001/GW1,FAST,Dutch Ministry of Foreign Affairs,Lead dept costings,DMFA,FY 2122,Generic,Standard,Application,Approved by funder,"£1,200,001.28",1,1,91.25,0,100%,0,0
+"HALL, JAMES Prof",AF,2006CT002/EH7,CCCES,Economic & Social Research Council,Collaborating dept costings,ESRC,FY 2021,Centres and Large Grants,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"KHOSLA, RADHIKA Dr",LD,2208LD002/LC10,ESRC,Economic & Social Research Council,Lead dept costings,ESRC,FY 2223,Centres and Large Grants,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Fankhauser, Samuel Prof",LD,2303LD003/AS16,Centre in Low-Carbon living,Economic & Social Research Council,Lead dept costings,ESRC,FY 2223,Centres and Large Grants,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Wilson, Charles Prof",AF,2310AF001/VS1,FULCRUM,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,Centres and Large Grants,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"KHOSLA, RADHIKA Dr",LD,2310AF001/VS1,FULCRUM,Economic & Social Research Council,Collaborating dept costings,ESRC,FY 2324,Centres and Large Grants,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SCHWANEN, TIM Prof",AC,2002AC014/GW1,ERA-NET,Economic & Social Research Council,Lead dept costings,ESRC,FY 2021,Generic,Standard,Re-cost,Approved by funder,"£342,230.39",0,1,91.25,0,100%,1,0
+"AHEARN, ARIELL Dr",AC,2104AC007/GW1,JSP,Economic & Social Research Council,Lead dept costings,ESRC,FY 2021,Generic,Standard,Application,Approved by funder,"£319,075.40",1,1,91.25,0,100%,0,0
+"Plyushteva, Anna Dr",JQ,2104JQ001/GW1,CHANSE,Economic & Social Research Council,Lead dept costings,ESRC,FY 2021,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Barbrook-Johnson-LEAVER, Peter Dr",LD,2106LD001/GW1,Trans-Atlantic Platform,Economic & Social Research Council,Lead dept costings,ESRC,FY 2021,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Anderson-Elliott, Henry Mr",AC,2103AC001/NS4,Knowing Misha the Polar Bear,Economic & Social Research Council,Lead dept costings,ESRC,FY 2122,Generic,Standard,Application,Approved by funder,"£93,880.80",1,1,91.25,0,100%,0,0
+"SADDINGTON, LIAM Mr",AC,2103AC002/NS4,Prefiguring the Future,Economic & Social Research Council,Lead dept costings,ESRC,FY 2122,Generic,Standard,Application,Approved by funder,"£96,152.79",1,1,91.25,0,100%,0,0
+"ROSE, GILLIAN Prof",AC,2104AC006/GW1,CHANCE,Economic & Social Research Council,Lead dept costings,ESRC,FY 2122,Generic,Standard,Re-cost,Approved by funder,"£422,235.80",1,1,91.25,0,100%,0,0
+"Warnock, Rosalie",AC,2201AC002/NS4,ESRC Post docs,Economic & Social Research Council,Lead dept costings,ESRC,FY 2122,Generic,Standard,Application,Approved by funder,"£99,028.00",1,1,91.25,0,100%,0,0
+"Watson, Alice",AC,2202AC002/NS4,Radio and podcast geopolitics,Economic & Social Research Council,Lead dept costings,ESRC,FY 2122,Generic,Standard,Application,Approved by funder,"£96,368.80",1,1,91.25,0,100%,0,0
+"Chung, Jinho Dr",JQ,2205JQ001/GW1,CEMENT,Economic & Social Research Council,Lead dept costings,ESRC,FY 2122,Generic,Standard,Application,Approved by funder,"£238,412.00",1,1,91.25,0,100%,0,0
+"KHOSLA, RADHIKA Dr",LD,2102BZ002/LB10,Extreme Climate,Economic & Social Research Council,Collaborating dept costings,ESRC,FY 2122,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Fankhauser, Samuel Prof",LD,2109LD001/GW1,Productivity call,Economic & Social Research Council,Lead dept costings,ESRC,FY 2122,Generic,Standard,Application,Approved by funder,"£387,657.58",1,1,91.25,0,100%,0,0
+"MIDDLETON, JENNIE Dr",AC,2205AC002/NS4,Care on the move,Economic & Social Research Council,Lead dept costings,ESRC,FY 2223,Generic,Standard,Application,Approved by funder,"£742,758.39",1,1,91.25,0,100%,0,0
+"Gini, Giovanna",AC,2302AC005/GW1,Humans fish and water,Economic & Social Research Council,Lead dept costings,ESRC,FY 2223,Generic,Standard,Application,Approved by funder,"£115,418.40",1,1,91.25,0,100%,0,0
+"Barbrook-Johnson-LEAVER, Peter Dr",AF,2209AF003/GW1,Mixed methods,Economic & Social Research Council,Lead dept costings,ESRC,FY 2223,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Pettifor, Hazel Dr",AF,2210AF003/GW1,Secondary data,Economic & Social Research Council,Lead dept costings,ESRC,FY 2223,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Parrish, Bryony Dr",AF,2303AF001/GW1,USES,Economic & Social Research Council,Lead dept costings,ESRC,FY 2223,Generic,Standard,Application,Approved by funder,"£117,149.60",1,1,91.25,0,100%,0,0
+"HIGGINSON-LEAVER, SARAH Dr",AF,2306AF001/LG7,ACCESS Flex Fund,Economic & Social Research Council,Lead dept costings,ESRC,FY 2223,Generic,Standard,Application,Approved by funder,"£23,974.21",1,1,91.25,0,100%,0,0
+"SCHWANEN, TIM Prof",JQ,2208JQ001/GW1,Newer,Economic & Social Research Council,Lead dept costings,ESRC,FY 2223,Generic,Standard,Re-cost,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SCHWANEN, TIM Prof",JQ,2210JQ002/GW1,DUT SPECIFIC,Economic & Social Research Council,Lead dept costings,ESRC,FY 2223,Generic,Standard,Application,Unknown,"£224,916.00",1,1,91.25,0,100%,0,0
+"CLARK, MICHAEL Mr",LD,2208BZ001/LB10,SALIENT,Economic & Social Research Council,Collaborating dept costings,ESRC,FY 2223,Generic,Standard,Application,Approved by funder,"£4,438.71",1,1,91.25,0,100%,0,0
+"MALHI, YADVINDER Prof",AC,2306AF004/AG8,Neo Sensors,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,0,0%,0,1
+"CHARLES, KATRINA Prof",AC,2308AC003/LG7,CCAM - Canada,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Jenkins, Stuart Dr",AC,2309AC002/LG7,U Ed ESRC Responsive,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"CHARLES, KATRINA Prof",AC,2310AC004/LG7,ORA 8,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Platt, Ben Dr",AC,2404AC005/EG8,ESRC Grand Union DTP,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,Generic,Standard,Application,Approved by funder,"£125,767.21",1,1,91.25,0,100%,0,0
+"MCDERMOTT, CONSTANCE Dr",AF,2303AF005/GW1,NFRFI CoGEN,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"OBERSTEINER, MICHAEL Prof",AF,2307AF015/LG7,Climate Mitigation NFRFI,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"ZUREK, MONIKA Dr",AF,2308AF005/LG7,The Future of Food Initiative,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"OBERSTEINER, MICHAEL Prof",AF,2309AF001/LG7,RECOVER,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Ranger-LEAVER, Nicola Dr",AF,2309AF002/LG7,Network + Cambridge Lead,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HIGGINSON-LEAVER, SARAH Dr",AF,2310AF004/LG7,ERC2,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MASLER, KAYA Ms",AF,2404AF001/VS1,ACCESS,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,Generic,Standard,Application,Approved by funder,"£240,000.00",1,1,91.25,0,100%,0,0
+"Li-LEAVER, Xiao Dr",JQ,2311JQ002/LG7,CORRELATE,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Budnitz, Hannah Dr",JQ,2311JQ003/LG7,SEMiTaSS,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,Generic,Standard,Application,Approved by funder,"£235,386.25",1,1,91.25,0,100%,0,0
+"Plyushteva, Anna Dr",JQ,2409JQ001/HB6,CAMINUP,Economic & Social Research Council,Lead dept costings,ESRC,FY 2425,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"KESTER-LEAVER, JOHANNES Dr",JQ,2102JQ001/GW1,PRINCE,Economic & Social Research Council,Lead dept costings,ESRC,FY 2021,New Investigator Grant,Standard,Application,Rejected by funder,"£242,504.00",0,1,91.25,0,100%,1,0
+"Galip, Ozlem",AC,2111AC002/GW1,Empowering women,Economic & Social Research Council,Lead dept costings,ESRC,FY 2122,New Investigator Grant,Standard,Application,Approved by funder,"£234,770.40",1,1,91.25,0,100%,0,0
+"Fair-LEAVER, Hannah Dr",AC,2307AC003/LG7,SPIDER,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,New Investigator Grant,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Bobrova, Yekatherina Dr",AF,2304AF002/AG8,ESCR New Investigator Grant,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,New Investigator Grant,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Bobrova, Yekatherina Dr",AF,2403AF002/LG7,ADEPT,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,New Investigator Grant,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Adam, Zakiyya Dr",JQ,2302JQ001/GW1,VIRTUE,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,New Investigator Grant,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Luiu, Carlo Dr",JQ,2306JQ001/AG8,Luiu - New Investigator grant,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,New Investigator Grant,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"STUART-SMITH, RUPERT Mr",LD,2303LD005/IP1,SLP_Climate Science in Court,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,New Investigator Grant,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Porges-LEAVER, Matthew Dr",AC,2410AC003/VS1,INMOFTAC,Economic & Social Research Council,Lead dept costings,ESRC,FY 2425,New Investigator Grant,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Midlen, Alex",AF,2506AF007/VS1,A Blue Œconomy for sustainable,Economic & Social Research Council,Lead dept costings,ESRC,FY 2425,New Investigator Grant,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Boateng, Festival Dr",JQ,2410JQ002/VS1,SERVICE,Economic & Social Research Council,Lead dept costings,ESRC,FY 2425,New Investigator Grant,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Montoya-Robledo, Valentina Dr",JQ,2411JQ001/VS1,MOMWORK,Economic & Social Research Council,Lead dept costings,ESRC,FY 2425,New Investigator Grant,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"EYRE, NICHOLAS Prof",AF,2212AF001/CO5,PROG-ROC,Economic & Social Research Council,Lead dept costings,ESRC,FY 2223,Research Grant,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HAMPTON, SAMUEL Dr",AF,2403AF002/VS1,CINCH,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,Research Grant,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MCCONNELL, FIONA Prof",AC,2410AC002/VS1,Co-curating an ‘Archive of,Economic & Social Research Council,Lead dept costings,ESRC,FY 2425,Research Grant,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"HIRONS, MARK Dr",AF,2501M3001/NM9,Fairmade Cocoa,Economic & Social Research Council,Collaborating dept costings,ESRC,FY 2425,Research Grant,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Vrain, Emilie Dr",AF,2505AF008/VS1,CUT,Economic & Social Research Council,Lead dept costings,ESRC,FY 2425,Research Grant,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Fankhauser, Samuel Prof",LD,2503LD003/VS1,CDR SUPPORT,Economic & Social Research Council,Lead dept costings,ESRC,FY 2425,Research Grant,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"CLARK, MICHAEL Mr",LD,2302BZ004/LB10,SALIENT Delivery,Economic & Social Research Council,Collaborating dept costings,ESRC,FY 2223,XXGeneric (inc inflation),Standard,Application,Approved by funder,"£229,904.65",1,1,91.25,0,100%,0,0
+"Narayan-LEAVER, Uttara Miss",AF,2403AF004/VS1,CARE,Economic & Social Research Council,Lead dept costings,ESRC,FY 2324,XXGeneric (inc inflation),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HAMPTON, SAMUEL Dr",AF,2411AF013/HB6,SME decarbonization,Economic & Social Research Council,Lead dept costings,ESRC,FY 2425,XXGeneric (inc inflation),Standard,Application,Approved by funder,"£5,747.12",1,1,91.25,0,100%,0,0
+"BARNES, JACOB Dr",AF,2507AF003/VS1,Pathways to Flexibility,Economic & Social Research Council,Lead dept costings,ESRC,FYTD 2526,XXGeneric (inc inflation),Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"BARNES, JACOB Dr",AF,2201AF003/NS4,ERC Flexible fund,Engineering & Physical Sciences Research Council,Lead dept costings,EPSRC,FY 2122,Generic v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HAMPTON, SAMUEL Dr",AF,2203AF001/NS4,UKERC flexible fund,Engineering & Physical Sciences Research Council,Lead dept costings,EPSRC,FY 2122,Generic v3,Standard,Application,Approved by funder,"£127,910.46",1,1,91.25,0,100%,0,0
+"SCHWANEN, TIM Prof",JQ,2305JQ001/AG8,DIWERSE,Engineering & Physical Sciences Research Council,Lead dept costings,EPSRC,FY 2223,Generic v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"CHARLES, KATRINA Prof",AC,2406AC003/VS1,TWINS,Engineering & Physical Sciences Research Council,Lead dept costings,EPSRC,FY 2324,Generic v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Wilson, Charles Prof",AF,2401DF013/KW4,JED-AI,Engineering & Physical Sciences Research Council,Collaborating dept costings,EPSRC,FY 2324,Generic v3,Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"HALL, JAMES Prof",AF,2402DF002/GW11,Systems Net Zero,Engineering & Physical Sciences Research Council,Collaborating dept costings,EPSRC,FY 2324,Generic v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Harwood, Thomas Dr",AF,2403AF003/LG7,ECOSYSTEMS,Engineering & Physical Sciences Research Council,Lead dept costings,EPSRC,FY 2324,Generic v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"FAWCETT, TINA Dr",AF,2409AF006/LG7,BuSCHE,Engineering & Physical Sciences Research Council,Lead dept costings,EPSRC,FY 2425,Generic v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MCELROY, CAITLIN Dr",LD,2503DF004/JRG2,Recycling Capabilities,Engineering & Physical Sciences Research Council,Collaborating dept costings,EPSRC,FY 2425,Generic v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"LUCEY, JENNIFER Dr",LD,2509DF003/LB7,ADVICE -  Nature Call,Engineering & Physical Sciences Research Council,Collaborating dept costings,EPSRC,FYTD 2526,Generic v3,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"VILES, HEATHER Prof",AC,2408DF002/GA3,Working with centres - DeFraCt,Engineering & Physical Sciences Research Council,Collaborating dept costings,EPSRC,FY 2425,Managed Call / Special Opportunity v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Mo, Yu",AF,2510AC003/MO2,REFRI,Engineering & Physical Sciences Research Council,Lead dept costings,EPSRC,FYTD 2526,Managed Call / Special Opportunity v3,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"FAWCETT, TINA Dr",AF,2102DF002/VN3,EDOL,Engineering & Physical Sciences Research Council,Collaborating dept costings,EPSRC,FY 2122,Programme / Centre Grant v3,Standard,Application,Approved by funder,"£1,614,621.34",1,1,91.25,0,100%,0,0
+"LAFOND, FRANCOIS Dr",LD,2503LD001/HB6,Full Application: EPSRC,Engineering & Physical Sciences Research Council,Lead dept costings,EPSRC,FY 2425,Programme / Centre Grant v3,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"BARNES, JACOB Dr",AF,2211AF004/CO5,Pump Priming,Engineering & Physical Sciences Research Council,Lead dept costings,EPSRC,FY 2223,Sandpits v3,Standard,Application,Approved by funder,"£24,227.81",1,1,91.25,0,100%,0,0
+"HART, NEIL Dr",AC,2301DC002/HL1,Stier AI Hub,Engineering & Physical Sciences Research Council,Collaborating dept costings,EPSRC,FY 2223,Standard Research Grant v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Sugar-LEAVER, Katherine Dr",AF,2307AF004/LG7,Researchers in Residence,Engineering & Physical Sciences Research Council,Lead dept costings,EPSRC,FY 2324,Standard Research Grant v3,Standard,Application,Approved by funder,"£49,998.37",1,1,91.25,0,100%,0,0
+"BRAND-LEAVER, CHRISTIAN Prof",AF,2311AF007/VS1,UKERC Phase 5,Engineering & Physical Sciences Research Council,Lead dept costings,EPSRC,FY 2324,Standard Research Grant v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MCELROY, CAITLIN Dr",LD,2311BL005/DH10,IDEAL,Engineering & Physical Sciences Research Council,Collaborating dept costings,EPSRC,FY 2324,Standard Research Grant v3,Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"HALL, JAMES Prof",AF,2408BL003/ED2,DART,Engineering & Physical Sciences Research Council,Collaborating dept costings,EPSRC,FY 2425,Standard Research Grant v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HEPBURN, CAMERON Prof",LD,2008LD001/GW1,Post Covid Recovery,Engineering & Physical Sciences Research Council,Lead dept costings,EPSRC,FY 2021,XXGeneric v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"KHOSLA, RADHIKA Dr",LD,2009DF001/VN3,UKool Maps,Engineering & Physical Sciences Research Council,Collaborating dept costings,EPSRC,FY 2021,XXGeneric v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Walsh, Tristram Mr",AF,2509AF001/EL3,TW Leeds RFP ECMWF 25,European Centre for Medium Range Weather Forecasts,Lead dept costings,ECMWF,FYTD 2526,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"OTTO, FRIEDERIKE Prof",AF,2008AF006/GW1,ECF,European Climate Foundation,Lead dept costings,ECF,FY 2021,Generic,Standard,Application,Approved by funder,"£20,045.15",1,1,91.25,0,100%,0,0
+"Smith, Stephen Dr",LD,2104LE001/DL6,Net Zero Dashboard,European Climate Foundation,Collaborating dept costings,ECF,FY 2021,Generic,Standard,Application,Approved by funder,"£23,575.65",1,1,91.25,0,100%,0,0
+"CALDECOTT, BENJAMIN Dr",LD,2105LD002/AS16,Pricing of energy transition,European Climate Foundation,Lead dept costings,ECF,FY 2021,Generic,Standard,Application,Approved by funder,"£120,027.54",1,1,91.25,0,100%,0,0
+"MCCARTHY-LEAVER, ANDREW Mr",LD,2202LD001/GW1,COP27,European Climate Foundation,Lead dept costings,ECF,FY 2122,Generic,Standard,Application,Approved by funder,"£99,978.93",1,1,91.25,0,100%,0,0
+"Smith, Stephen Dr",LD,2202LE004/DL6,Net Zero Dashboard 2,European Climate Foundation,Collaborating dept costings,ECF,FY 2122,Generic,Standard,Application,Approved by funder,"£23,576.15",1,1,91.25,0,100%,0,0
+"ALLEN, MYLES Prof",AC,2304AE001/AS14,InSIS-ECF-JO-GOCNZIA,European Climate Foundation,Collaborating dept costings,ECF,FY 2223,Generic,Standard,Application,Approved by funder,"£5,827.31",1,1,91.25,0,100%,0,0
+"STUART-SMITH, RUPERT Mr",LD,2303LD004/IP1,SLP_CRD Project,European Climate Foundation,Lead dept costings,ECF,FY 2223,Generic,Standard,Re-cost,Approved by funder,"£72,000.00",0,1,91.25,0,100%,1,0
+"Smith, Stephen Dr",LD,2312LD003/VS1,Net Zero Tracker 2024,European Climate Foundation,Lead dept costings,ECF,FY 2324,Generic,Standard,Application,Approved by funder,"£34,223.30",1,1,91.25,0,100%,0,0
+"McGivern, Alexis Ms",LD,2412LD002/BDW1,Serviced Emissions,European Climate Foundation,Lead dept costings,ECF,FY 2425,Generic,Standard,Application,Approved by funder,"£107,080.43",1,1,91.25,0,100%,0,0
+"Aguirre Gutierrez, Jesus Dr",AF,2412AF002/VS1,ADAPTA,European Commission,Lead dept costings,EC,FY 2425,H2020 ERC CoG v3,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Brophy, AOIFE Dr",LD,2008AF004/GW1,SIPPBACC,European Commission,Lead dept costings,EC,FY 2021,H2020 Marie Curie European Fellowship v3,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"LORA-WAINWRIGHT, ANNA Prof",AC,2008AC002/GW1,UrbanEG,European Commission,Lead dept costings,EC,FY 2021,H2020 Marie Curie Global Fellowship v3,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"BARNES, JACOB Dr",AF,2006AF009/GW1,ECitShip,European Commission,Lead dept costings,EC,FY 2021,H2020 Research and Innovation Actions (RIA) v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"OTTO, FRIEDERIKE Prof",AF,2008AF002/GW1,XAIDA,European Commission,Lead dept costings,EC,FY 2021,H2020 Research and Innovation Actions (RIA) v3,Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"OTTO, FRIEDERIKE Prof",AF,2008AF005/GW1,New Tools,European Commission,Lead dept costings,EC,FY 2021,H2020 Research and Innovation Actions (RIA) v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MCDERMOTT, CONSTANCE Dr",AF,2101AF001/GW1,RESTOREU,European Commission,Lead dept costings,EC,FY 2021,H2020 Research and Innovation Actions (RIA) v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Mose-LEAVER, Tedd Dr",AF,2101DF001/VN3,RESTORE,European Commission,Collaborating dept costings,EC,FY 2021,H2020 Research and Innovation Actions (RIA) v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"KHOSLA, RADHIKA Dr",LD,2101LD002/AS16,H2020 Green Deal,European Commission,Lead dept costings,EC,FY 2122,H2020 Research and Innovation Actions (RIA) v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"ORJUELA MENDOZA, JUAN Dr",JQ,2509JQ001/VS1,PrepAIRed,European Commission,Lead dept costings,EC,FYTD 2526,H2020 Research and Innovation Actions (RIA) v3,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"SHENKIN, ALEXANDER Dr",AF,2107CD001/HA2,ETW,European Commission,Collaborating dept costings,EC,FY 2122,Horizon Europe ERC AdG,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Fankhauser, Samuel Prof",LD,2304DC001/BE2,GeoNetZero,European Commission,Collaborating dept costings,EC,FY 2223,Horizon Europe ERC AdG,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MALHI, YADVINDER Prof",AC,2402AC003/VS1,LIFEFLUX,European Commission,Lead dept costings,EC,FY 2425,Horizon Europe ERC AdG,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"FUCKAR, NEVEN-STJEPAN Dr",AF,2408VG007/JX1,BREATHE,European Commission,Collaborating dept costings,EC,FY 2425,Horizon Europe ERC AdG,Standard,Application,Submitted to funder,£0.00,0,0,91.25,0,0%,0,1
+"SLATER, LOUISE Prof",AC,2507AC002/HB6,FLUID-EARTH,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe ERC AdG,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"MORENO MATEOS, DAVID Dr",AC,2507AC002/VS1,RECOARC,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe ERC AdG,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"MALHI, YADVINDER Prof",AC,2508AC002/VS1,LIFEFLUX,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe ERC AdG,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"MALHI, YADVINDER Prof",AC,2508AC003/VS1,TREECHARMS,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe ERC AdG,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"SCHIPPER, EMMA Dr",AF,2107AF001/NS4,Align,European Commission,Lead dept costings,EC,FY 2122,Horizon Europe ERC CoG,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MURREY-NDEWA, AMBER Dr",AC,2311AC003/LG7,DISSENT,European Commission,Lead dept costings,EC,FY 2324,Horizon Europe ERC CoG,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Plyushteva, Anna Dr",JQ,2306JQ002/LG7,Twinning Green,European Commission,Lead dept costings,EC,FY 2324,Horizon Europe ERC CoG,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Plyushteva, Anna Dr",JQ,2309JQ001/LG7,MENDING,European Commission,Lead dept costings,EC,FY 2324,Horizon Europe ERC StG,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Azzouz, Ammar Dr",AC,2408AC002/VS1,ROW,European Commission,Lead dept costings,EC,FY 2425,Horizon Europe ERC StG,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"SCHUMACHER-LEAVER, JACOB Dr",LD,2409LD002/VS1,IntlPolEconClimChng,European Commission,Lead dept costings,EC,FY 2425,Horizon Europe ERC StG,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Jokela Pansini, Maaret",AC,2509AC003/VS1,VISIONS,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe ERC StG,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Cusworth, George",AC,2509AC004/VS1,SOILCOIN,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe ERC StG,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"HALL, JAMES Prof",AF,2109AT012/TW1,GOVERNATURE,European Commission,Collaborating dept costings,EC,FY 2122,Horizon Europe ERC Synergy,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"OBERSTEINER, MICHAEL Prof",AF,2110AF002/GW1,Deep soil,European Commission,Lead dept costings,EC,FY 2122,Horizon Europe ERC Synergy,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"OBERSTEINER, MICHAEL Prof",AF,2211AF002/CO5,Deep soil,European Commission,Lead dept costings,EC,FY 2223,Horizon Europe ERC Synergy,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Smith, Stephen Dr",LD,2309DC001/BE2,GeoNetZero,European Commission,Collaborating dept costings,EC,FY 2324,Horizon Europe ERC Synergy,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"BAILEY, RICHARD Prof",AC,2410AC005/HB6,SIMSCALE,European Commission,Lead dept costings,EC,FY 2425,Horizon Europe ERC Synergy,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Wilson, Charles Prof",AF,2410AF009/VS1,SHIFT,European Commission,Lead dept costings,EC,FY 2425,Horizon Europe ERC Synergy,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"ZUREK, MONIKA Dr",AF,2510AF002/MO2,Protein portfolio,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe ERC Synergy,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Smith, Stephen Dr",LD,2509AE006/HP2,DEEP TRAP,European Commission,Collaborating dept costings,EC,FYTD 2526,Horizon Europe ERC Synergy,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"LORA-WAINWRIGHT, ANNA Prof",AC,2109AC005/GW1,URBANEG,European Commission,Lead dept costings,EC,FY 2122,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"SCHWANEN, TIM Prof",JQ,2109JQ001/GW1,ClimateMobilities,European Commission,Lead dept costings,EC,FY 2122,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Brophy, AOIFE Dr",LD,2109LD002/GW1,CLIMACT,European Commission,Lead dept costings,EC,FY 2122,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SCHWANEN, TIM Prof",JQ,2208JQ004/GW1,CLIMMOB,European Commission,Lead dept costings,EC,FY 2223,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SLATER, LOUISE Prof",AC,2308AC004/LG7,GLOSTRESS,European Commission,Lead dept costings,EC,FY 2324,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"HART, NEIL Dr",AC,2308AC007/AG8,FIRESTORM,European Commission,Lead dept costings,EC,FY 2324,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Farmer, Doyne",LD,2308LD002/AS16,IMPACTSIM,European Commission,Lead dept costings,EC,FY 2324,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"KRISHNAN, SNEHA Dr",AC,2407AC005/VS1,MSCA-RS,European Commission,Lead dept costings,EC,FY 2425,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MALHI, YADVINDER Prof",AC,2407AC006/VS1,MorphoForest,European Commission,Lead dept costings,EC,FY 2425,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"MALHI, YADVINDER Prof",AC,2407AC007/VS1,EnergStruct,European Commission,Lead dept costings,EC,FY 2425,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,0,0%,0,1
+"MCCONNELL, FIONA Prof",AC,2408AC002/LG7,DESERTMOTION,European Commission,Lead dept costings,EC,FY 2425,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"MALHI, YADVINDER Prof",AC,2408AC004/VS1,DYNAMIC-RECOVER,European Commission,Lead dept costings,EC,FY 2425,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,0,0%,0,1
+"HALL, JAMES Prof",AF,2408AF004/LG7,REGEN,European Commission,Lead dept costings,EC,FY 2425,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Approved by funder,"£265,574.17",1,1,91.25,0,100%,0,0
+"SLATER, LOUISE Prof",AC,2508AC001/MO2,iFLUSH,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"LORA-WAINWRIGHT, ANNA Prof",AC,2508AC002/MO2,DRILL,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"MURREY-NDEWA, AMBER Dr",AC,2508AC003/MO2,Localizing Knowledge,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"HOPKINS, DEBORAH Dr",AC,2508AC004/MO2,CanisCity,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"MALHI, YADVINDER Prof",AC,2508AC004/VS1,VILUNVERI,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"MALHI, YADVINDER Prof",AC,2508AC006/VS1,ANIMAL- CNP,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"MALHI, YADVINDER Prof",AC,2508AC007/VS1,MorphoForest,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"KRISHNAN, SNEHA Dr",AC,2508AC009/VS1,RS-2025,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"HALL, JAMES Prof",AF,2508AF001/MO2,INFRANEX-BR,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"HALL, JAMES Prof",AF,2508AF002/VS1,CIAWI,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Seenath, Avidesh Dr",AF,2508AF003/VS1,FITShore,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"GASPAR VERISSIMO, DIOGO Dr",AF,2508AF005/VS1,Antarctic Tourism,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Aguirre Gutierrez, Jesus Dr",AF,2508AF007/VS1,UrbanWild,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Aguirre Gutierrez, Jesus Dr",AF,2508AF008/VS1,ThresTrop,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Aguirre Gutierrez, Jesus Dr",AF,2508AF009/VS1,FUNDIEFLOW,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"SCHWANEN, TIM Prof",JQ,2508JQ003/VS1,WITS,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"LUCEY, JENNIFER Dr",LD,2508LD001/MO2,BIOPROWEED,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe MSCA Postdoctoral Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"VILES, HEATHER Prof",AC,2108AC003/GW1,Green Clean,European Commission,Lead dept costings,EC,FY 2122,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"VILES, HEATHER Prof",AC,2203AC001/NS4,CHANCE,European Commission,Lead dept costings,EC,FY 2122,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"LORA-WAINWRIGHT, ANNA Prof",AC,2203AC003/GW1,Mistral,European Commission,Lead dept costings,EC,FY 2122,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"ZUREK, MONIKA Dr",AF,2108AF001/NS4,Mega,European Commission,Lead dept costings,EC,FY 2122,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"LORD, STEVEN Dr",AF,2108AF003/NS4,FoodCoST,European Commission,Lead dept costings,EC,FY 2122,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"INGRAM, JOHN Dr",AF,2109AF001/NS4,The FOSTER Academy,European Commission,Lead dept costings,EC,FY 2122,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Wilson, Charlie",AF,2112AF003/GW1,PRISMA,European Commission,Lead dept costings,EC,FY 2122,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"OBERSTEINER, MICHAEL Prof",AF,2202AF001/GW1,DIAMOND,European Commission,Lead dept costings,EC,FY 2122,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"HALL, JAMES Prof",AF,2202AF008/GW1,Miraca,European Commission,Lead dept costings,EC,FY 2122,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"CALDECOTT, BENJAMIN Dr",LD,2109LD001/AS16,SIMPLE-E,European Commission,Lead dept costings,EC,FY 2122,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"WETZER, THOM Mr",LD,2110LD002/GW1,ADJUST,European Commission,Lead dept costings,EC,FY 2122,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MALHI, YADVINDER Prof",AC,2303AC011/GW1,Greening Cities,European Commission,Lead dept costings,EC,FY 2223,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"OBERSTEINER, MICHAEL Prof",AF,2202AF002/GW1,CARPE C,European Commission,Lead dept costings,EC,FY 2223,Horizon Europe Research & Innovation Actions (RIA),Standard,Re-cost,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"GARNETT, TARA Dr",AF,2302AF003/GW1,PARTEMIS,European Commission,Lead dept costings,EC,FY 2223,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"INGRAM, JOHN Dr",AF,2302AF004/GW1,FoSSNet,European Commission,Lead dept costings,EC,FY 2223,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"INGRAM, JOHN Dr",AF,2302AF005/GW1,Sure Food,European Commission,Lead dept costings,EC,FY 2223,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"OBERSTEINER, MICHAEL Prof",AF,2304AF001/AG8,MultiFutures,European Commission,Lead dept costings,EC,FY 2223,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"OBERSTEINER, MICHAEL Prof",AF,2311AF003/LG7,Sustain-a-bite,European Commission,Lead dept costings,EC,FY 2324,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Approved by funder,"£292,169.36",1,1,91.25,0,100%,0,0
+"GARNETT, TARA Dr",AF,2311AF004/LG7,PLANET,European Commission,Lead dept costings,EC,FY 2324,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Abebe, Selam Mrs",AF,2311LD001/LG7,NEW PATHWAYS,European Commission,Collaborating dept costings,EC,FY 2324,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Approved by funder,"£200,825.48",1,1,91.25,0,100%,0,0
+"Fan, Yee Dr",AF,2401AF002/VS1,GREEN-HAMP,European Commission,Lead dept costings,EC,FY 2324,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Harwood, Thomas Dr",AF,2401AF003/LG7,EMBRACE,European Commission,Lead dept costings,EC,FY 2324,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Ranger-LEAVER, Nicola Dr",AF,2401AF004/LG7,Nature-3B,European Commission,Lead dept costings,EC,FY 2324,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Approved by funder,"£427,001.87",1,1,91.25,0,100%,0,0
+"KHOSLA, RADHIKA Dr",LD,2309DF003/MM13,Free-Cooling 2,European Commission,Collaborating dept costings,EC,FY 2324,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"CLARK, MICHAEL Mr",LD,2311AF004/LG7,PLANET,European Commission,Collaborating dept costings,EC,FY 2324,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Fankhauser, Samuel Prof",LD,2311LD001/LG7,NEW PATHWAYS,European Commission,Lead dept costings,EC,FY 2324,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Approved by funder,"£52,910.63",1,1,91.25,0,100%,0,0
+"Morsing, Mette Prof",LD,2401AF004/LG7,Nature-3B,European Commission,Collaborating dept costings,EC,FY 2324,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Approved by funder,"£48,197.89",1,1,91.25,0,100%,0,0
+"FAWCETT, TINA Dr",AF,2408AF006/LG7,RE-LIGHT,European Commission,Lead dept costings,EC,FY 2425,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SCHWANEN, TIM Prof",JQ,2405JQ001/LG7,POL2GO,European Commission,Lead dept costings,EC,FY 2425,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Smith, Stephen Dr",LD,2411LD004/BDW1,ElectroDACCS,European Commission,Lead dept costings,EC,FY 2425,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"ALLEN, MYLES Prof",AC,2507DC002/ND3,COFFEE,European Commission,Collaborating dept costings,EC,FYTD 2526,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"TOPOUZI, MARINA Dr",AF,2501AF002/VS1,COABIT,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"SMITH, ALISON Ms",AF,2509AF003/VS1,MakeJust,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Fankhauser, Samuel Prof",LD,2508LD001/VS1,Equity and Justice,European Commission,Lead dept costings,EC,FYTD 2526,Horizon Europe Research & Innovation Actions (RIA),Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"CHARLES, KATRINA Prof",AC,2008AC001/GW1,WASHforAll,European Commission,Lead dept costings,EC,FY 2021,XXH2020 Marie Curie European Fellowship(WP2018-202,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SLATER, LOUISE Prof",AC,2008AC003/GW1,FloodUncertainty,European Commission,Lead dept costings,EC,FY 2021,XXH2020 Marie Curie European Fellowship(WP2018-202,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MALHI, YADVINDER Prof",AC,2401AC001/VS1,Wytham Woods LEMON,European Forest Institute,Lead dept costings,EFI,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Brito Dias, Viviane",AC,2506AC001/VS1,Linking functional diversity,European Molecular Biology Organisation (EMBO),Lead dept costings,EMBO,FY 2425,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"KRUITWAGEN-LEAVER, LUCAS Mr",LD,2111BL001/JL7,ESA ITT UV-SR-XAI-001,European Space Agency,Collaborating dept costings,ESA,FY 2122,Generic,Standard,Application,Approved by funder,"£6,241.40",1,1,91.25,0,100%,0,0
+"DYER, ELLEN Dr",LD,2312LD001/LG7,Forests for resilience,European Space Agency,Lead dept costings,ESA,FY 2324,Generic,Standard,Application,Approved by funder,"£60,065.94",1,1,91.25,0,100%,0,0
+"CALDECOTT, BENJAMIN Dr",LD,2402LD002/JH13,EO-ESA,European Space Agency,Lead dept costings,ESA,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Ranger-LEAVER, Nicola Dr",AF,2405CB001/GR3,EO for Nature Finance,European Space Agency,Collaborating dept costings,ESA,FY 2425,Generic,Standard,Application,Approved by funder,"£174,827.23",1,1,91.25,0,100%,0,0
+"HASNAIN-LEAVER, SAHER Dr",AF,2101AF006/GW1,FSA,Food Standards Agency,Lead dept costings,FSA,FY 2021,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"INGRAM, JOHN Dr",AF,2109AF002/NS4,Understanding the food system,Food Standards Agency,Lead dept costings,FSA,FY 2122,Generic,Standard,Application,Rejected by funder,"£154,103.03",0,1,91.25,0,100%,1,0
+"HALL, JAMES Prof",AF,2011AF004/GW1,Jamacia,Foreign & Commonwealth Office,Lead dept costings,FCO,FY 2021,Generic,Standard,Application,Approved by funder,"£450,516.66",1,1,91.25,0,100%,0,0
+"CALDECOTT, BENJAMIN Dr",LD,2206LD001/LC10,UK Pact_Thailand,Foreign & Commonwealth Office,Lead dept costings,FCO,FY 2223,Generic,Standard,Application,Approved by funder,"£180,611.21",1,1,91.25,0,100%,0,0
+"HALL, JAMES Prof",AF,2501AF002/HB6,Geospatial Analysis Mauritius,Foreign & Commonwealth Office,Lead dept costings,FCO,FY 2425,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MCDERMOTT, CONSTANCE Dr",AF,2507AF001/GB5,IMPACTS,Foreign & Commonwealth Office,Lead dept costings,FCO,FYTD 2526,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"HALL, JAMES Prof",AF,2002AF005/GW1,strategic transport networks,"Foreign, Commonwealth and Development Office",Lead dept costings,DFID,FY 2021,Generic,Standard,Application,Approved by funder,"£211,008.93",1,1,91.25,0,100%,0,0
+"Palofax-Alcantar, Giovani",LD,2309DF001/CH12,V-COOLPath,"Foreign, Commonwealth and Development Office",Collaborating dept costings,DFID,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Abebe, Selam Mrs",AF,2405LD002/AS16,FCDO Private Financing LMICs,"Foreign, Commonwealth and Development Office",Collaborating dept costings,DFID,FY 2425,Generic,Standard,Re-cost,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SCHWANEN, TIM Prof",JQ,2405LD002/AS16,FCDO Private Financing LMICs,"Foreign, Commonwealth and Development Office",Collaborating dept costings,DFID,FY 2425,Generic,Standard,Re-cost,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Fankhauser, Samuel Prof",LD,2405LD002/AS16,FCDO Private Financing LMICs,"Foreign, Commonwealth and Development Office",Lead dept costings,DFID,FY 2425,Generic,Standard,Re-cost,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HALL, JAMES Prof",AF,2508AF004/VS1,Linking geospatial energy,"Foreign, Commonwealth and Development Office",Lead dept costings,DFID,FYTD 2526,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"HALL, JAMES Prof",AF,2508AF006/VS1,Energy security indicator,"Foreign, Commonwealth and Development Office",Lead dept costings,DFID,FYTD 2526,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"HALL, JAMES Prof",AF,2511PS006/EM8,FCDO MHRN,"Foreign, Commonwealth and Development Office",Collaborating dept costings,DFID,FYTD 2526,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"CALDECOTT, BENJAMIN Dr",LD,2511LD001/PS8,UK PACT Vietnam,"Foreign, Commonwealth and Development Office",Lead dept costings,DFID,FYTD 2526,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"PANT, RAGHAV Dr",AF,2509AF004/VS1,Resilience-aware electrificati,FORMAS,Lead dept costings,FORMAS,FYTD 2526,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"WETZER, THOM Mr",LD,2010LD007/AS16,SLP core,Foundation for International Law for the Environment,Lead dept costings,FILE,FY 2021,Generic,Standard,Application,Approved by funder,"£480,601.57",1,1,91.25,0,100%,0,0
+"Aguirre Gutierrez, Jesus Dr",AF,2309CB002/AS11,FID Proposal,Fund for Innovation in Development,Collaborating dept costings,FID,FY 2324,Gneric,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+PI/Co-I,Dept,Project Ref,Short Title,Funder,Lead Department?,funder_code,Financial Year,Scheme Name,Scheme Type,cost_type_description,Fund Deci Status Desc,Amount Awarded,Approved,Approved *,Automatically Unsuccessful,Decision Pending *,Success Rate %,Unsuccessful,Unsuccessful *
+PI/Co-I,Dept,Project Ref,Short Title,Funder,Lead Department?,funder_code,Financial Year,Scheme Name,Scheme Type,cost_type_description,Fund Deci Status Desc,Amount Awarded,Approved,Approved *,Automatically Unsuccessful,Decision Pending *,Success Rate %,Unsuccessful,Unsuccessful *
+PI/Co-I,Dept,Project Ref,Short Title,Funder,Lead Department?,funder_code,Financial Year,Scheme Name,Scheme Type,cost_type_description,Fund Deci Status Desc,Amount Awarded,Approved,Approved *,Automatically Unsuccessful,Decision Pending *,Success Rate %,Unsuccessful,Unsuccessful *
+PI/Co-I,Dept,Project Ref,Short Title,Funder,Lead Department?,funder_code,Financial Year,Scheme Name,Scheme Type,cost_type_description,Fund Deci Status Desc,Amount Awarded,Approved,Approved *,Automatically Unsuccessful,Decision Pending *,Success Rate %,Unsuccessful,Unsuccessful *
+PI/Co-I,Dept,Project Ref,Short Title,Funder,Lead Department?,funder_code,Financial Year,Scheme Name,Scheme Type,cost_type_description,Fund Deci Status Desc,Amount Awarded,Approved,Approved *,Automatically Unsuccessful,Decision Pending *,Success Rate %,Unsuccessful,Unsuccessful *
+"DYER, ELLEN Dr",LD,2401LD002/VS1,Empowering extension services,Gates Foundation,Lead dept costings,GATES,FY 2324,Generic v2,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"CALDECOTT, BENJAMIN Dr",LD,2207LD007/GW1,Impact Challenge,Google Inc,Lead dept costings,GOOGLEUS,FY 2122,Costing template for business funders (standard),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"CLARK, MICHAEL Mr",LD,2211LD001/AS16,FoodMetric Tool,Google Inc,Lead dept costings,GOOGLEUS,FY 2223,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Li-LEAVER, Xiao Dr",JQ,2306JQ001/LG7,SLAM-based road safety,Government of the Hong Kong Special Administrative Region,Lead dept costings,GHKSAR,FY 2223,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"INGRAM, JOHN Dr",AF,2101AF007/GW1,GLA,Greater London Authority,Lead dept costings,GLA,FY 2021,Generic,Standard,Application,Rejected by funder,"£39,999.78",0,1,91.25,0,100%,1,0
+"KHOSLA, RADHIKA Dr",LD,2211BZ004/AMF1,winter pressures,Health Data Research UK,Collaborating dept costings,HDR-UK,FY 2223,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"GARNETT, TARA Dr",AF,2503AF002/HB6,HFHP,Healthy Food Healthy Planet,Lead dept costings,HFHP,FY 2425,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"HALL, JAMES Prof",AF,2306AF003/LG7,Global Resilience Index,Howden Foundation,Lead dept costings,HOWDEN,FY 2223,Costing template for business funders (standard),Standard,Application,Approved by funder,"£399,999.69",1,1,91.25,0,100%,0,0
+"CALDECOTT, BENJAMIN Dr",LD,2009LD005/GW1,ETRC,Ikea Foundation,Lead dept costings,IKEAF,FY 2021,Generic,Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"CALDECOTT, BENJAMIN Dr",LD,2009LD007/GW1,Public and third sector,Ikea Foundation,Lead dept costings,IKEAF,FY 2021,Generic,Standard,Application,Approved by funder,"£4,500,000.64",1,1,91.25,0,100%,0,0
+"CALDECOTT, BENJAMIN Dr",LD,2009LD008/GW1,SFI,Ikea Foundation,Lead dept costings,IKEAF,FY 2021,Generic,Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"CALDECOTT, BENJAMIN Dr",LD,2009LD009/GW1,Future of engagement,Ikea Foundation,Lead dept costings,IKEAF,FY 2021,Generic,Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"Smith, Stephen Dr",LD,2401LE003/DL6,Net Zero IKEA 2,Ikea Foundation,Collaborating dept costings,IKEAF,FY 2425,Generic,Standard,Application,Approved by funder,"£237,269.56",1,1,91.25,0,100%,0,0
+"KLINKE, IAN Dr",AC,2102AC011/GW1,Beyond deterrence,Independent Social Research Foundation,Lead dept costings,ISRF,FY 2021,ISRF Independent Scholar Research Fellowship,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MURREY-NDEWA, AMBER Dr",AC,2311AC005/VS1,Black and African Geographies,Independent Social Research Foundation,Lead dept costings,ISRF,FY 2324,ISRF Independent Scholar Research Fellowship,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"THOMAS, DAVID Prof",AC,2008AP003/DR3,Energy Catalyst Round 8,Innovate UK,Collaborating dept costings,TSB,FY 2021,Collaborative R&D Project,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"BAILEY, RICHARD Prof",AC,2105AC001/NS4,Clean Maritime,Innovate UK,Lead dept costings,TSB,FY 2021,Collaborative R&D Project,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SCHWANEN, TIM Prof",JQ,2207JQ001/GW1,Go-2W,Innovate UK,Lead dept costings,TSB,FY 2223,Collaborative R&D Project,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"KHOSLA, RADHIKA Dr",LD,2207DF003/GW11,Cooling Vietnam's Cold Chains,Innovate UK,Collaborating dept costings,TSB,FY 2223,Collaborative R&D Project,Standard,Application,Approved by funder,"£1,806.90",1,1,91.25,0,100%,0,0
+"Smith, Stephen Dr",LD,2208LD001/GW1,Innovate UK,Innovate UK,Lead dept costings,TSB,FY 2223,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Smith, Stephen Dr",LD,2209LD001/GW1,Zero Emission,Innovate UK,Lead dept costings,TSB,FY 2223,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"TOPOUZI, MARINA Dr",AF,2308AF004/LG7,Pathfinders 2 Innovate,Innovate UK,Lead dept costings,TSB,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"CALDECOTT, BENJAMIN Dr",LD,2404LD001/JH13,Valuing water,Innovate UK,Lead dept costings,TSB,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"CHARLES, KATRINA Prof",AC,2205AC003/GW1,Intrahousehold dynamics,International Development Research Centre,Lead dept costings,IDRC,FY 2122,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MCDERMOTT, CONSTANCE Dr",AF,2205AF001/NS4,CLARE,International Development Research Centre,Lead dept costings,IDRC,FY 2223,Generic,Standard,Re-cost,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"DYER, ELLEN Dr",LD,2205LD001/NS4,Palm Trees,International Development Research Centre,Lead dept costings,IDRC,FY 2223,Generic,Standard,Re-cost,Approved by funder,"£371,753.72",1,1,91.25,0,100%,0,0
+"OBERSTEINER, MICHAEL Prof",AF,2507AF001/HB6,TABLE Laudes Foundation,Laudes Foundation,Lead dept costings,LF,FYTD 2526,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Fair-LEAVER, Hannah Dr",AC,2201AC006/NS4,Squalid Natures,Leverhulme Trust,Lead dept costings,LT,FY 2122,Early Career Fellowship Grant v4,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Mo, Yu Dr",AC,2201AC007/NS4,Towards healthier coasts,Leverhulme Trust,Lead dept costings,LT,FY 2122,Early Career Fellowship Grant v4,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Searle, Adam",AC,2201AC009/NS4,Hacking Cattle for the Anthrop,Leverhulme Trust,Lead dept costings,LT,FY 2122,Early Career Fellowship Grant v4,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Ippolito-LEAVER, Angelo Mr",AC,2402AC002/VS1,The Chemical Kinship Atlas,Leverhulme Trust,Lead dept costings,LT,FY 2324,Early Career Fellowship Grant v4,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Liu-LEAVER, Yinxue Miss",AC,2501AC007/VS1,Blame the river or the rain,Leverhulme Trust,Lead dept costings,LT,FY 2425,Early Career Fellowship Grant v4,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Unnithan Kumar, Siddharth",AC,2501AC008/VS1,Crafting mathematics as an eco,Leverhulme Trust,Lead dept costings,LT,FY 2425,Early Career Fellowship Grant v4,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Turnbull-LEAVER, Jonathon Dr",AF,2501AF007/VS1,Nightlife in the more-than-hum,Leverhulme Trust,Lead dept costings,LT,FY 2425,Early Career Fellowship Grant v4,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Searle, Adam",AC,2101AC004/GW1,Synthetic Biogeopraphies,Leverhulme Trust,Lead dept costings,LT,FY 2021,Generic (v3),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"WEDDING, LISA Dr",AC,2103AC002/GW1,Land sea connectivity,Leverhulme Trust,Lead dept costings,LT,FY 2122,Generic (v3),Standard,Re-cost,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Aguirre Gutierrez, Jesus Dr",AF,2408AF003/AG8,Insights for Public Health,Leverhulme Trust,Lead dept costings,LT,FY 2425,Generic (v3),Standard,Application,Approved by funder,"£368,256.00",1,1,91.25,0,100%,0,0
+"LORA-WAINWRIGHT, ANNA Prof",AC,2210M3002/FT2,SOC,Leverhulme Trust,Collaborating dept costings,LT,FY 2223,International Academic Fellowship v2,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"ROSE, GILLIAN Prof",AC,2204AC002/GW1,Animating urban life,Leverhulme Trust,Lead dept costings,LT,FY 2122,Major Research Fellowships v4,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SLATER, LOUISE Prof",AC,2404AC006/EG8,Philip Leverhulme Prize,Leverhulme Trust,Lead dept costings,LT,FY 2324,Philip Leverhulme Prizes v5,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"THALER, GREGORY Dr",AC,2505AC001/GB5,GT_LT_PLP_May 2025,Leverhulme Trust,Lead dept costings,LT,FY 2425,Philip Leverhulme Prizes v5,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"LORIMER, JAMIE Prof",AC,2410AC005/VS1,What’s your beef?,Leverhulme Trust,Lead dept costings,LT,FY 2425,Research Fellowships v5,Fellowship,Application,Approved by funder,"£61,421.38",1,1,91.25,0,100%,0,0
+"MALHI, YADVINDER Prof",AC,2102AC009/GW1,Nature Recovery,Leverhulme Trust,Lead dept costings,LT,FY 2122,Research Project Grant (v6),Standard,Application,Approved by funder,"£843,862.02",1,1,91.25,0,100%,0,0
+"MORENO MATEOS, DAVID Dr",AC,2310AC005/VS1,The recovery of forest complex,Leverhulme Trust,Lead dept costings,LT,FY 2425,Research Project Grant (v6),Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"WEDDING, LISA Dr",AC,2505AC001/HB6,Seascape restoration,Leverhulme Trust,Lead dept costings,LT,FYTD 2526,Research Project Grant (v6),Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"HALL, JAMES Prof",AF,2506AF003/HB6,Local wind-speed simulation,Lloyd’s of London Foundation,Lead dept costings,LOLFOUND,FY 2425,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Maalouf, Amani Dr",LD,2501LD001/PS8,World Risk Poll - Waste,Lloyds Register Foundation,Lead dept costings,LLOYDREG,FY 2425,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,0,0%,0,1
+"CHARLES, KATRINA Prof",AC,2208AC003/GW1,Rural water safety,Medical Research Council,Lead dept costings,MRC,FY 2223,Generic v3,Standard,Application,Approved by funder,"£150,065.80",1,1,91.25,0,100%,0,0
+"Mo, Yu",AF,2211AF001/GW1,NCR3M,Medical Research Council,Lead dept costings,MRC,FY 2223,Generic v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"GREENHOUGH, BETH Prof",AC,2405HM007/RA4,MRC Johansen-Berg,Medical Research Council,Collaborating dept costings,MRC,FY 2324,Generic v3,Standard,Application,Approved by funder,"£268,239.44",1,1,91.25,0,100%,0,0
+"FAWCETT, TINA Dr",AF,2403LD002/AS16,TEMPRO,Medical Research Council,Collaborating dept costings,MRC,FY 2324,Generic v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Fankhauser, Samuel Prof",LD,2403HJ001/KN2,NetZeroHealth Hub,Medical Research Council,Collaborating dept costings,MRC,FY 2324,Generic v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"KHOSLA, RADHIKA Dr",LD,2403LD002/AS16,TEMPRO,Medical Research Council,Lead dept costings,MRC,FY 2324,Generic v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"DYER, ELLEN Dr",LD,2409LD001/VS1,DengueCARE,Medical Research Foundation,Lead dept costings,MEDRESF,FY 2425,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HART, NEIL Dr",AC,2201AC004/NS4,CSSP Brazil Project follow-on,Met Office,Lead dept costings,METOFF,FY 2122,Generic,Standard,Application,Approved by funder,"£99,981.28",1,1,91.25,0,100%,0,0
+"DADSON, SIMON Prof",AC,2201DF009/RL2,CSSP Brazil,Met Office,Collaborating dept costings,METOFF,FY 2122,Generic,Standard,Application,Approved by funder,"£11,841.03",1,1,91.25,0,100%,0,0
+"WASHINGTON, RICHARD Prof",AC,2510AC002/GB5,MOAP 2025,Met Office,Lead dept costings,METOFF,FYTD 2526,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Li-LEAVER, Xiao Dr",JQ,2301JQ001/GW1,TRB,National Academy of Sciences,Lead dept costings,NAS,FY 2223,Generic,Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"Li-LEAVER, Xiao Dr",JQ,2401JQ001/VS1,Digitizing Bicycle,National Academy of Sciences,Lead dept costings,NAS,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Li-LEAVER, Xiao Dr",JQ,2407JQ001/VS1,Measuring Disability,National Academy of Sciences,Lead dept costings,NAS,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"CHARLES, KATRINA Prof",AC,2104CR006/LB13,Hospital Water safety,National Institute for Health Research,Collaborating dept costings,NIHR,FY 2021,Generic (v3),Standard,Application,Unknown,£0.00,0,0,91.25,0,0%,1,1
+"STRITZKE, SUSANN Dr",LD,2009LD004/GW1,Women led preparedness,National Institute for Health Research,Lead dept costings,NIHR,FY 2021,Generic (v3),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"FUCKAR, NEVEN-STJEPAN Dr",AC,2206B9001/HB3,Hospital Risk RIGHT nihr,National Institute for Health Research,Collaborating dept costings,NIHR,FY 2223,Generic (v3),Standard,Application,Approved by funder,"£22,370.82",1,1,91.25,0,100%,0,0
+"OBERSTEINER, MICHAEL Prof",AF,2310B9002/HB3,NEWRISK 2,National Institute for Health Research,Collaborating dept costings,NIHR,FY 2324,Policy Research Programme,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HEPBURN, CAMERON Prof",LD,2310B9002/HB3,NEWRISK 2,National Institute for Health Research,Collaborating dept costings,NIHR,FY 2324,Policy Research Programme,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MESSINA, JANE Dr",AC,2409AC001/VS1,Burden and Disease Ecology,National Institutes of Health USA,Lead dept costings,NIH,FY 2425,Miscellaneous research grants v5,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MACIAS FAURIA-LEAVER, MARC Prof",AC,2102AC007/GW1,Yamal,National Science Foundation,Lead dept costings,NATSCI,FY 2021,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MALHI, YADVINDER Prof",AC,2010AC004/GW1,Wytham Woods,Natural Environment Research Council,Lead dept costings,NERC,FY 2021,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MALHI, YADVINDER Prof",AC,2011AC003/GW1,Treescapes,Natural Environment Research Council,Lead dept costings,NERC,FY 2021,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"DADSON, SIMON Prof",AC,2011AC007/GW1,Treescapes,Natural Environment Research Council,Lead dept costings,NERC,FY 2021,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MALHI, YADVINDER Prof",AC,2104AC005/GW1,Climate change,Natural Environment Research Council,Lead dept costings,NERC,FY 2021,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Michette, Martin Dr",AC,2107AC002/NS4,Climate resilience,Natural Environment Research Council,Lead dept costings,NERC,FY 2021,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SMITH, ALISON Ms",AF,2007AF004/GW1,SMMR,Natural Environment Research Council,Lead dept costings,NERC,FY 2021,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HALL, JAMES Prof",AF,2010LC001/RB4,AGILE,Natural Environment Research Council,Collaborating dept costings,NERC,FY 2021,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HIRONS, MARK Dr",AF,2011AF006/GW1,Treescapes,Natural Environment Research Council,Lead dept costings,NERC,FY 2021,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SMITH, ALISON Ms",AF,2011AF009/GW1,Trescapes,Natural Environment Research Council,Lead dept costings,NERC,FY 2021,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HIRONS, MARK Dr",AF,2102AT007/TW1,Blue-green space in cities,Natural Environment Research Council,Collaborating dept costings,NERC,FY 2021,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HALL, JAMES Prof",AF,2103LC001/CJ5,AGILE,Natural Environment Research Council,Collaborating dept costings,NERC,FY 2021,Generic v2,Standard,Application,Approved by funder,"£969,644.82",1,1,91.25,0,100%,0,0
+"WALTON, PETER Dr",AF,2107AF003/NS4,Embedded researcher,Natural Environment Research Council,Lead dept costings,NERC,FY 2021,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HEPBURN, CAMERON Prof",LD,1910LD005/GW1,NERC GGRD,Natural Environment Research Council,Lead dept costings,NERC,FY 2021,Generic v2,Standard,Re-cost,Rejected by funder,"£1,757,868.79",1,1,91.25,0,100%,0,0
+"CALDECOTT, BENJAMIN Dr",LD,2005LD001/GW1,CERAFF,Natural Environment Research Council,Lead dept costings,NERC,FY 2021,Generic v2,Standard,Application,Rejected by funder,"£1,166,363.22",0,1,91.25,0,100%,1,0
+"HEPBURN, CAMERON Prof",LD,2010LC001/RB4,AGILE,Natural Environment Research Council,Collaborating dept costings,NERC,FY 2021,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"THOMSON-LEAVER, PATRICK Mr",LD,2011LD002/GW1,Resilient water supplies,Natural Environment Research Council,Lead dept costings,NERC,FY 2021,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HEPBURN, CAMERON Prof",LD,2103LC001/CJ5,AGILE,Natural Environment Research Council,Collaborating dept costings,NERC,FY 2021,Generic v2,Standard,Application,Approved by funder,"£241,246.39",1,1,91.25,0,100%,0,0
+"THOMAS, DAVID Prof",AC,2204AC004/GW1,Alluvial landscape evolution,Natural Environment Research Council,Lead dept costings,NERC,FY 2122,Generic v2,Standard,Application,Approved by funder,"£9,091.00",1,1,91.25,0,100%,0,0
+"SLATER, LOUISE Prof",AC,2206AC001/NS4,NERC Pushing the frontiers,Natural Environment Research Council,Lead dept costings,NERC,FY 2122,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Gopalakrishna, Trisha",AC,2207AC002/GW1,Treescapes,Natural Environment Research Council,Lead dept costings,NERC,FY 2122,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Aguirre Gutierrez, Jesus Dr",AF,2104AF001/NS4,FunDiversity,Natural Environment Research Council,Lead dept costings,NERC,FY 2122,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"CALDECOTT, BENJAMIN Dr",LD,2111LD001/GW1,Tokenising Biodiversity,Natural Environment Research Council,Lead dept costings,NERC,FY 2122,Generic v2,Standard,Re-cost,Rejected by funder,"£47,995.59",0,1,91.25,0,100%,1,0
+"MALHI, YADVINDER Prof",AC,2304AC001/GW1,Pushing the Frontiers Jul 23,Natural Environment Research Council,Lead dept costings,NERC,FY 2223,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"REECE-LEAVER, STEVEN Dr",LD,2208LD003/LC10,Robust ESG data,Natural Environment Research Council,Lead dept costings,NERC,FY 2223,Generic v2,Standard,Application,Approved by funder,"£92,514.00",1,1,91.25,0,100%,0,0
+"Ranger-LEAVER, Nicola Dr",LD,2208LD005/LC10,Integrating Nature,Natural Environment Research Council,Lead dept costings,NERC,FY 2223,Generic v2,Standard,Application,Approved by funder,"£85,165.61",1,1,91.25,0,100%,0,0
+"CALDECOTT, BENJAMIN Dr",LD,2208LD006/LC10,TPT,Natural Environment Research Council,Lead dept costings,NERC,FY 2223,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"REECE-LEAVER, STEVEN Dr",LD,2209LD001/LC10,CEH,Natural Environment Research Council,Lead dept costings,NERC,FY 2223,Generic v2,Standard,Application,Approved by funder,"£3,788.00",1,1,91.25,0,100%,0,0
+"KHOSLA, RADHIKA Dr",LD,2302LD001/GW1,Environmental chllenges,Natural Environment Research Council,Lead dept costings,NERC,FY 2223,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MALHI, YADVINDER Prof",AC,2307AC006/LG7,RANGE,Natural Environment Research Council,Lead dept costings,NERC,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Gebrechorkos, Solomon Dr",AC,2309AC005/LG7,Hydroclimate extremes,Natural Environment Research Council,Lead dept costings,NERC,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"DADSON, SIMON Prof",AC,2309DG003/GB5,STRAIN,Natural Environment Research Council,Collaborating dept costings,NERC,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Ferraro, Kristy",AC,2310AC006/LG7,Kristy Ferraro NERC,Natural Environment Research Council,Lead dept costings,NERC,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"DADSON, SIMON Prof",AC,2310DG003/GB5,RAPID-INVERSE,Natural Environment Research Council,Collaborating dept costings,NERC,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MALHI, YADVINDER Prof",AC,2311AC006/VS1,Tropical Peatland,Natural Environment Research Council,Lead dept costings,NERC,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MORENO MATEOS, DAVID Dr",AC,2404AC003/LG7,The recovery of the adaptive,Natural Environment Research Council,Lead dept costings,NERC,FY 2324,Generic v2,Standard,Application,Approved by funder,"£747,859.87",1,1,91.25,0,100%,0,0
+"Ranger-LEAVER, Nicola Dr",AF,2310AF002/LG7,Integrating finance II,Natural Environment Research Council,Lead dept costings,NERC,FY 2324,Generic v2,Standard,Application,Approved by funder,"£372,307.56",1,1,91.25,0,100%,0,0
+"Barbosa de Silva, Milton Dr",AF,2310AF003/LG7,TBC,Natural Environment Research Council,Lead dept costings,NERC,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Mo, Yu Dr",AF,2310AF005/LG7,NERC IRF Yu Mo,Natural Environment Research Council,Lead dept costings,NERC,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MORENO MATEOS, DAVID Dr",AC,2505AC005/VS1,Measuring the recovery,Natural Environment Research Council,Lead dept costings,NERC,FY 2425,Generic v2,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"LORIMER, JAMIE Prof",AC,2505CB001/GS3,Noisy_Savanna,Natural Environment Research Council,Collaborating dept costings,NERC,FY 2425,Generic v2,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Fan, Yee Dr",AF,2510AF004/EL3,YF NetDRIVE REACT,Natural Environment Research Council,Lead dept costings,NERC,FYTD 2526,Generic v2,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"SHENKIN, ALEXANDER Dr",AF,2009AF003/GW1,IRF,Natural Environment Research Council,Lead dept costings,NERC,FY 2021,Independent Research Fellowship Grant v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Mo, Yu Dr",AC,2110AC002/NS4,CoastNet,Natural Environment Research Council,Lead dept costings,NERC,FY 2122,Independent Research Fellowship Grant v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MARTIN-LEAVER, ANDREW Dr",AC,2209AC007/GW1,Annuli,Natural Environment Research Council,Lead dept costings,NERC,FY 2223,Independent Research Fellowship Grant v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"CLARK, MICHAEL Mr",LD,2310LD004/AS16,Research Fellowship,Natural Environment Research Council,Lead dept costings,NERC,FY 2324,Independent Research Fellowship Grant v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Gebrechorkos, Solomon Dr",LD,2503LD001/VS1,Unravelling Hydroclimate Extre,Natural Environment Research Council,Lead dept costings,NERC,FY 2425,Independent Research Fellowship Grant v2,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"SMITH, ALISON Ms",AF,2011AF008/GW1,OCNF,Natural Environment Research Council,Lead dept costings,NERC,FY 2021,Knowledge Exchange Fellowship,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Chung, Jinho Dr",JQ,2201JQ001/GW1,Science to policy,Natural Environment Research Council,Lead dept costings,NERC,FY 2122,Knowledge Exchange Fellowship,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"WEDDING, LISA Dr",AC,2204AC003/GW1,Land sea nutrient connectivity,Natural Environment Research Council,Lead dept costings,NERC,FY 2122,Standard Grant Research Grant v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SLATER, LOUISE Prof",AC,2211AC003/CO5,Atmospheric Rivers,Natural Environment Research Council,Lead dept costings,NERC,FY 2223,Standard Grant Research Grant v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"ALLEN, MYLES Prof",AC,2401AC001/AG8,MAPLE,Natural Environment Research Council,Lead dept costings,NERC,FY 2324,Standard Grant Research Grant v3,Standard,Application,Approved by funder,"£65,491.15",1,1,91.25,0,100%,0,0
+"SLATER, LOUISE Prof",AC,2403AC004/VS1,Modulated Lateral Dynamics,Natural Environment Research Council,Lead dept costings,NERC,FY 2324,Standard Grant Research Grant v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Smith, Stephen Dr",LD,2401AC001/AG8,MAPLE,Natural Environment Research Council,Collaborating dept costings,NERC,FY 2324,Standard Grant Research Grant v3,Standard,Application,Approved by funder,"£13,716.85",1,1,91.25,0,100%,0,0
+"WEDDING, LISA Dr",AC,2411AC001/HB6,Reconnecting Seascapes,Natural Environment Research Council,Lead dept costings,NERC,FY 2425,Standard Grant Research Grant v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MUNDAY, CALLUM Mr",AC,2505AC003/GB5,DEMO-K,Natural Environment Research Council,Lead dept costings,NERC,FY 2425,Standard Grant Research Grant v3,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Harwood, Thomas Dr",AF,2506AF001/HB6,SAERCH,Natural Environment Research Council,Lead dept costings,NERC,FY 2425,Standard Grant Research Grant v3,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"SLATER, LOUISE Prof",AC,2510AC005/MO2,EARTHFLOW-AI,Natural Environment Research Council,Lead dept costings,NERC,FYTD 2526,Standard Grant Research Grant v3,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"HALL, JAMES Prof",AF,2511AF003/MO2,SABLE,Natural Environment Research Council,Lead dept costings,NERC,FYTD 2526,Standard Grant Research Grant v3,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"WIGGS, GILES Prof",AC,2504AC005/VS1,HARE,Natural Environment Research Council,Lead dept costings,NERC,FY 2425,Urgency Application v2,Standard,Application,Approved by funder,"£11,405.60",1,1,91.25,0,100%,0,0
+"MALHI, YADVINDER Prof",AC,2010AC005/GW1,Amazon at risk,Natural Environment Research Council,Lead dept costings,NERC,FY 2021,XXLarge Grant (Outline) v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MALHI, YADVINDER Prof",AC,2007AC002/GW1,El Nino,Natural Environment Research Council,Lead dept costings,NERC,FY 2021,XXStandard Grant Research Grant v2,Standard,Re-cost,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MACIAS FAURIA-LEAVER, MARC Prof",AC,2010AC001/GW1,Megafauna,Natural Environment Research Council,Lead dept costings,NERC,FY 2021,XXStandard Grant Research Grant v2,Standard,Application,Approved by funder,"£672,191.00",1,1,91.25,0,100%,0,0
+"OLIVERAS-MENOR, IMMACULADA Dr",AC,2010AC002/GW1,Neotropical biomes,Natural Environment Research Council,Lead dept costings,NERC,FY 2021,XXStandard Grant Research Grant v2,Standard,Application,Approved by funder,"£642,635.21",1,1,91.25,0,100%,0,0
+"Ranger-LEAVER, Nicola Dr",AF,2408AF003/LG7,INCA-IP,Norges Bank Investment Management,Lead dept costings,NBIM,FY 2425,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"JENKINS, STUART Mr",AF,2409AF001/LG7,Aligning the Finance Sector,Norges Bank Investment Management,Lead dept costings,NBIM,FY 2425,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"LORIMER, JAMIE Prof",AC,2308AC003/AG8,Novo Nordisk,Novo Nordisk Foundation,Lead dept costings,NNFONDEN,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SLATER, LOUISE Prof",AC,2407AC001/LG7,climate change cardiometabolic,Novo Nordisk Foundation,Lead dept costings,NNFONDEN,FY 2425,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"CHARLES, KATRINA Prof",AC,2407AC003/LG7,Heat Stress & Disease,Novo Nordisk Foundation,Lead dept costings,NNFONDEN,FY 2425,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HALL, JAMES Prof",AF,2004AF006/GW1,NSSM,Ofwat,Lead dept costings,OFWAT,FY 2021,Generic,Standard,Application,Rejected by funder,"£176,266.52",0,1,91.25,0,100%,1,0
+"INGRAM, JOHN Dr",AF,2006AF005/GW1,FOSI,Open Society Foundations,Lead dept costings,FOSI,FY 2021,Generic,Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"HOPKINS, DEBORAH Dr",AC,2201AT009/TW1,Pandemic resilience,Oxford Martin School,Collaborating dept costings,OXMARTNS,FY 2122,Generic Standard,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"GARNETT, TARA Dr",AF,2101AF004/GW1,Table,Quadrature Climate Foundation,Lead dept costings,QCF,FY 2021,Generic,Standard,Re-cost,Approved by funder,"£1,721,061.99",1,1,91.25,0,100%,0,0
+"Smith, Stephen Dr",LD,2306LD007/AS16,State of CDR report v2,Quadrature Climate Foundation,Lead dept costings,QCF,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Morsing, Mette Prof",LD,2408LD003/AS16,Core and ONZ teams,Quadrature Climate Foundation,Lead dept costings,QCF,FY 2425,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Smith, Stephen Dr",LD,2408LD005/AS16,State of CDR report,Quadrature Climate Foundation,Lead dept costings,QCF,FY 2425,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"STUART-SMITH, RUPERT Mr",LD,2409LD001/IP1,SLP_QCF_Da Vinci,Quadrature Climate Foundation,Lead dept costings,QCF,FY 2425,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,0,0%,0,1
+"CHARLES, KATRINA Prof",AC,2305AC003/LG7,RGHI - ICA Costing,Reckitt Global Hygiene Institute,Lead dept costings,RGHI,FY 2223,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"GRECKSCH, KEVIN Dr",AC,2502AC006/VS1,DISSECT,Research Council of Norway,Lead dept costings,RC-NO,FY 2425,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,0,0%,0,1
+"OBERSTEINER, MICHAEL Prof",AF,2312AF001/LG7,RE Development Fund,Research England,Lead dept costings,RE,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Li-LEAVER, Xiao Dr",JQ,2409JQ001/VS1,Safe-SEND,Road Safety Trust,Lead dept costings,ROADSAFE,FY 2425,Generic,Standard,Application,Approved by funder,£0.00,0,0,91.25,0,0%,0,1
+"HALL, JAMES Prof",AF,2201AF003/GW1,Engineering,Royal Academy of Engineering,Lead dept costings,RAE,FY 2122,Research Chair,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"WALLUM, Natasha Miss",AC,2511AC003/MO2,Hunting Hidden Dust,Royal Geographical Society,Lead dept costings,RGS,FYTD 2526,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Moore, Nathan Dr",AC,2511AC006/EL3,NM RS CDF,Royal Society,Lead dept costings,ROYALSOC,FYTD 2526,Career Development Fellowship v2,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"SLATER, LOUISE Prof",AC,2209AC010/GW1,Thermodynamic flood events,Royal Society,Lead dept costings,ROYALSOC,FY 2223,Generic v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Stevens, Nicola Dr",AF,2209AF007/GW1,Herbivores,Royal Society,Lead dept costings,ROYALSOC,FY 2223,Generic v3,Standard,Application,Approved by funder,"£11,923.00",1,1,91.25,0,100%,0,0
+"Aguirre Gutierrez, Jesus Dr",AF,2211AF003/CO5,Tree structural and leaf trait,Royal Society,Lead dept costings,ROYALSOC,FY 2223,Generic v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MORENO MATEOS, DAVID Dr",AC,2403AC003/VS1,temperate forests,Royal Society,Lead dept costings,ROYALSOC,FY 2324,Generic v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Aguirre Gutierrez, Jesus Dr",AF,2309AF006/LG7,Tropical forests resilience,Royal Society,Lead dept costings,ROYALSOC,FY 2324,Generic v3,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Mo, Yu Dr",AC,2505AC002/HB6,Rice paddy phenology,Royal Society,Lead dept costings,ROYALSOC,FY 2425,Generic v3,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Aguirre Gutierrez, Jesus Dr",AF,2409AF002/HB6,Tropical Forests,Royal Society,Lead dept costings,ROYALSOC,FY 2425,Generic v3,Standard,Application,Approved by funder,"£30,000.00",1,1,91.25,0,100%,0,0
+"Aguirre Gutierrez, Jesus Dr",AF,2503AF004/VS1,Enhancing Ecosystem Climate,Royal Society,Lead dept costings,ROYALSOC,FY 2425,International Collaboration Awards,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"GRENYER, RICHARD Dr",AC,2303AC006/GW1,Digital data,Royal Society,Lead dept costings,ROYALSOC,FY 2223,Newton International Fellowships,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Liu, Weihang Dr",AC,2402AC002/LG7,multi-source land surface data,Royal Society,Lead dept costings,ROYALSOC,FY 2324,Newton International Fellowships,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Engert, Jayden",AC,2502AC002/HB6,Quantifying spatiotemporal,Royal Society,Lead dept costings,ROYALSOC,FY 2425,Newton International Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Smyth, Lucy",AC,2503AC001/HB6,Newton Int Fellow,Royal Society,Lead dept costings,ROYALSOC,FY 2425,Newton International Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Naseef S A, Abdulla Dr",AC,2503AC002/HB6,Hotspots Under Heat,Royal Society,Lead dept costings,ROYALSOC,FY 2425,Newton International Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Aparecida Maia, Renata",AF,2503AF001/VS1,Critical stress limits of trop,Royal Society,Lead dept costings,ROYALSOC,FY 2425,Newton International Fellowships,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"CLARK, MICHAEL Mr",LD,2508LD005/BDW1,Dynamic modelling of a nationa,Royal Society,Lead dept costings,ROYALSOC,FYTD 2526,University Research Fellowship Grant (v5),Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Kemp, Jordan Dr",LD,2401LD001/AS16,Career Dev Fellowship,Royal Society,Lead dept costings,ROYALSOC,FY 2324,XXCareer Development Fellowship,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Rodríguez-Uña, Asun",AC,2410AC006/VS1,Improving the long-term,Royal Society,Lead dept costings,ROYALSOC,FY 2425,XXDorothy Hodgkin Fellowship Grant v3,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"MALHI, YADVINDER Prof",AC,2501AC001/VS1,Harnessing island-ocean connec,Royal Society,Lead dept costings,ROYALSOC,FY 2425,XXFaraday Discovery Fellowship,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"SLATER, LOUISE Prof",AC,2203AC002/GW1,Seasonal Streamflow Forecastin,Royal Society,Lead dept costings,ROYALSOC,FY 2122,XXNewton International Fellowship Grant,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Mo, Yu Dr",AC,2208AC002/GW1,NCR3M,Royal Society,Lead dept costings,ROYALSOC,FY 2223,XXUniversity Research Fellowship Grant (v4),Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,0,0%,0,1
+"BAILEY, RICHARD Prof",AC,2207AC005/GW1,Fisheries,Schmidt Family Foundation,Lead dept costings,TSFF,FY 2122,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SLATER, LOUISE Prof",AC,2403DG003/GB5,RIVER-FUTURES,Schmidt Family Foundation,Collaborating dept costings,TSFF,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HALL, JAMES Prof",AF,2507AF002/HB6,The MATRIX Project,"Schmidt Sciences, LLC",Lead dept costings,SCHSCI,FYTD 2526,Generic Standard,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Verschuur-LEAVER, Jasper Dr",AC,2303AC001/AG8,DAFNI BRSW call,Science and Technology Facilities Council,Lead dept costings,STFC,FY 2223,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"PANT, RAGHAV Dr",AF,2305AF001/LG7,Systemic Resilience,Science and Technology Facilities Council,Lead dept costings,STFC,FY 2223,Generic v2,Standard,Application,Approved by funder,"£336,698.41",1,1,91.25,0,100%,0,0
+"FUCKAR, NEVEN-STJEPAN Dr",AF,2510AF001/MO2,MVUA,Science and Technology Facilities Council,Lead dept costings,STFC,FYTD 2526,Generic v2,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"MURGATROYD-LEAVER, ANNA Dr",AC,2305AC001/LG7,Pywr-WREW,Science and Technology Facilities Council,Lead dept costings,STFC,FY 2223,Standard Grant Research Grant/PPRPv2,Standard,Application,Approved by funder,"£51,076.00",1,1,91.25,0,100%,0,0
+"MCDERMOTT, CONSTANCE Dr",AF,2310AF009/LG7,CoGEN,Social Sciences & Humanities Research Council of Canada,Lead dept costings,SSHRC-CA,FY 2324,Generic,Standard,Application,Approved by funder,"£30,960.78",1,1,91.25,0,100%,0,0
+"CALDECOTT, BENJAMIN Dr",LD,2307LD002/JH13,OXSFI-SED,Stichting SED Fund,Lead dept costings,SEDFUND,FY 2324,Generic,Standard,Application,Rejected by funder,"£111,111.11",0,1,91.25,0,100%,1,0
+"CALDECOTT, BENJAMIN Dr",LD,2408LD001/JH13,OXSFI II,Stichting SED Fund,Lead dept costings,SEDFUND,FY 2425,Generic,Standard,Application,Approved by funder,"£148,148.12",1,1,91.25,0,100%,0,0
+"ALLEN, MYLES Prof",AF,2006AF004/GW1,Net carbon zero,Strategic Research Fund,Lead dept costings,SRF-OX,FY 2021,Generic,Standard,Application,Approved by funder,"£1,447,527.16",1,1,91.25,0,100%,0,0
+"CALDECOTT, BENJAMIN Dr",LD,2407LD003/AS16,Stripe Climate Fellowship,Stripe Inc,Lead dept costings,STRIPE,FY 2324,Costing template for business funders (standard),Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"CALDECOTT, BENJAMIN Dr",LD,2308LD001/JH13,Sunrise 2023-24,Sunrise Project Australia Limited,Lead dept costings,SUNRISE,FY 2324,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HALL, JAMES Prof",AF,2001AF005/GW1,SDGS,Swedish Research Council,Lead dept costings,RC-SE,FY 2021,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Vrain, Emilie Dr",AF,2503AF005/VS1,Time will tell,Swedish Research Council,Lead dept costings,RC-SE,FY 2425,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Vrain, Emilie Dr",AF,2409AF003/LG7,Tech Lifestyle Sustainability,Swiss National Science Foundation,Lead dept costings,SNSF,FY 2425,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Myat, Su Su",AC,2507AC005/VS1,Urban Digital Visions,Swiss National Science Foundation,Lead dept costings,SNSF,FYTD 2526,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Chang, Yuyang",AF,2507AF003/HB6,Urban green infrastructure,Swiss National Science Foundation,Lead dept costings,SNSF,FYTD 2526,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"HART, NEIL Dr",AC,2011AC006/GW1,First Rains,UK Research and Innovation (UKRI),Lead dept costings,RCUK,FY 2021,Generic v2,Standard,Application,Approved by funder,"£1,327,222.40",1,1,91.25,0,100%,0,0
+"INGRAM, JOHN Dr",AF,2302AF002/GW1,Major Ireland,UK Research and Innovation (UKRI),Lead dept costings,RCUK,FY 2223,Generic v2,Standard,Application,Approved by funder,"£302,407.31",1,1,91.25,0,100%,0,0
+"DADSON, SIMON Prof",AC,2407AC002/VS1,HYDRO-DISCO,UK Research and Innovation (UKRI),Lead dept costings,RCUK,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HASNAIN-LEAVER, SAHER Dr",AF,2308AF001/AG8,AFN Champion-healthy diets,UK Research and Innovation (UKRI),Lead dept costings,RCUK,FY 2324,Generic v2,Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"PANT, RAGHAV Dr",AF,2401AF002/LG7,Maximising UK adaptation,UK Research and Innovation (UKRI),Lead dept costings,RCUK,FY 2324,Generic v2,Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"ZUREK, MONIKA Dr",AF,2401AF006/LG7,Strengthening the resilience,UK Research and Innovation (UKRI),Lead dept costings,RCUK,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Ranger-LEAVER, Nicola Dr",AF,2403AF001/VS1,Transformative Resilience,UK Research and Innovation (UKRI),Lead dept costings,RCUK,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SCHWANEN, TIM Prof",JQ,2406DF005/SH14,UK-R2C2,UK Research and Innovation (UKRI),Collaborating dept costings,RCUK,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SLATER, LOUISE Prof",AC,2404AC001/AG8,SMART-HS,UK Research and Innovation (UKRI),Lead dept costings,RCUK,FY 2425,Generic v2,Standard,Application,Approved by funder,"£575,081.99",1,1,91.25,0,100%,0,0
+"SLATER, LOUISE Prof",AC,2410AC007/VS1,DRIFT,UK Research and Innovation (UKRI),Lead dept costings,RCUK,FY 2425,Generic v2,Standard,Application,Approved by funder,"£594,692.97",1,1,91.25,0,100%,0,0
+"COOMBES, MARTIN Dr",AC,2410HQ012/PC5,MicrObs,UK Research and Innovation (UKRI),Collaborating dept costings,RCUK,FY 2425,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Richards, Jennifer Dr",AC,2505AC002/GB5,HeritageClimates,UK Research and Innovation (UKRI),Lead dept costings,RCUK,FY 2425,Generic v2,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Anderson, Bailey Dr",AC,2507AC001/HB6,UKRI Policy Fellowships,UK Research and Innovation (UKRI),Lead dept costings,RCUK,FY 2425,Generic v2,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Harwood, Thomas Dr",AF,2408AF006/AG8,REACT,UK Research and Innovation (UKRI),Lead dept costings,RCUK,FY 2425,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Lumma, Johannes Dr",AF,2501AF006/HB6,SALIENT,UK Research and Innovation (UKRI),Lead dept costings,RCUK,FY 2425,Generic v2,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Gaytan Camarillo, Mariana Mrs",AF,2503AF001/GB5,Understanding Willingness,UK Research and Innovation (UKRI),Lead dept costings,RCUK,FY 2425,Generic v2,Standard,Application,Approved by funder,"£61,329.51",1,1,91.25,0,100%,0,0
+"TOPOUZI, MARINA Dr",AF,2503AF008/VS1,MiCEP,UK Research and Innovation (UKRI),Lead dept costings,RCUK,FY 2425,Generic v2,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Parrish, Bryony Dr",AF,2504AF001/VS1,Investigating citizens' agency,UK Research and Innovation (UKRI),Lead dept costings,RCUK,FY 2425,Generic v2,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Li, Yue Miss",AF,2504AF007/HB6,Modelling the system-scale,UK Research and Innovation (UKRI),Lead dept costings,RCUK,FY 2425,Generic v2,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Zhang, Jing Dr",AF,2507AF004/VS1,Unlocking the Potentiall,UK Research and Innovation (UKRI),Lead dept costings,RCUK,FYTD 2526,Generic v2,Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"FUCKAR, NEVEN-STJEPAN Dr",AF,2509PS003/IG2,Genomic intervention GENIE-AFR,UK Research and Innovation (UKRI),Collaborating dept costings,RCUK,FYTD 2526,Generic v2,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"BAILEY, RICHARD Prof",AC,2309AC003/LG7,SURIMI,UK Research and Innovation/ European Research Council,Lead dept costings,UKRIERC,FY 2324,Horizon Europe Guarantee funding – ERC,Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"Migozzi, Julien Dr",AC,2110AC003/GW1,Real estate platforms,Urban Studies Foundation,Lead dept costings,USF,FY 2122,Postdoctoral Research Fellowship,Fellowship,Application,Approved by funder,"£180,000.43",1,1,91.25,0,100%,0,0
+"Montoya-Robledo, Valentina Dr",JQ,2406JQ001/VS1,Normalising Walking in Johan,Volvo Research and Educational Foundations,Lead dept costings,VREF,FY 2425,Generic,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SCHWANEN, TIM Prof",JQ,2408JQ003/VS1,POINT,Volvo Research and Educational Foundations,Lead dept costings,VREF,FY 2425,Generic,Standard,Application,Approved by funder,"£39,847.44",1,1,91.25,0,100%,0,0
+"MIDDLETON, JENNIE Dr",AC,2508AC001/VS1,JUST-WALK,Volvo Research and Educational Foundations,Lead dept costings,VREF,FYTD 2526,Generic,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Chung, Jinho Dr",JQ,2202JQ002/NS4,Climate Mobilities,Wellcome Trust,Lead dept costings,WT,FY 2122,"100% DI only recovery, with inflation (all years)",Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"CHARLES, KATRINA Prof",AC,2403AC002/LG7,Wellcome Climate Impact,Wellcome Trust,Lead dept costings,WT,FY 2324,"100% DI only recovery, with inflation (all years)",Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"SCHWANEN, TIM Prof",JQ,2403JQ001/LG7,CoMenta LA Mente,Wellcome Trust,Lead dept costings,WT,FY 2324,"100% DI only recovery, with inflation (all years)",Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"GARNETT, TARA Dr",AF,2503LD003/AN7,MH,Wellcome Trust,Collaborating dept costings,WT,FY 2425,"100% DI only recovery, with inflation (all years)",Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Bartlett, Harriet Ms",LD,2503LD003/AN7,MH,Wellcome Trust,Lead dept costings,WT,FY 2425,"100% DI only recovery, with inflation (all years)",Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"HOQUE, SONIA Dr",LD,2507LD001/VS1,Lived experiences of water,Wellcome Trust,Lead dept costings,WT,FY 2425,Accelerator Award,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Liao, Yu-Kai",AC,2202AC001/GW1,One Health,Wellcome Trust,Lead dept costings,WT,FY 2122,Career Development Awards,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Bartlett, Harriet Ms",LD,2302LD001/AS16,Wellcome Trust Fellowship app,Wellcome Trust,Lead dept costings,WT,FY 2223,Career Development Awards,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Hamper, Josie Dr",AC,2501AC002/HB6,Gestational Diabetes,Wellcome Trust,Lead dept costings,WT,FY 2425,Career Development Awards,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"CLARK, MICHAEL Mr",LD,2506LD001/BDW1,MCF-Mike,Wellcome Trust,Lead dept costings,WT,FY 2425,Career Development Awards,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"GREENHOUGH, BETH Prof",AC,2409AC004/HB6,Domestication Of Vaccination,Wellcome Trust,Lead dept costings,WT,FY 2425,Discovery Awards,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HART, NEIL Dr",AC,2504CV005/JL6,Climate Impact,Wellcome Trust,Collaborating dept costings,WT,FY 2425,Discovery Awards,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Montoya-Robledo, Valentina Dr",JQ,2503JQ001/VS1,Precarious Job,Wellcome Trust,Lead dept costings,WT,FY 2425,Discovery Awards,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"FUCKAR, NEVEN-STJEPAN Dr",AF,2511AF003/EL3,MOSAICK,Wellcome Trust,Lead dept costings,WT,FYTD 2526,Discovery Awards,Standard,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Linton, Charlotte",AC,2201AC003/GW1,Regenerating fashion,Wellcome Trust,Lead dept costings,WT,FY 2122,Early-Career Awards,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"FUCKAR, NEVEN-STJEPAN Dr",AF,2412BZ001/AMF1,TraumaHeat,Wellcome Trust,Collaborating dept costings,WT,FY 2425,Early-Career Awards,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Headings, Rachel Ms",AF,2502AF001/HB6,Future of Food,Wellcome Trust,Lead dept costings,WT,FY 2425,Early-Career Awards,Fellowship,Application,Submitted to funder,£0.00,0,0,91.25,1,0%,0,0
+"Cohen, Francois",LD,2412BZ001/AMF1,TraumaHeat,Wellcome Trust,Collaborating dept costings,WT,FY 2425,Early-Career Awards,Fellowship,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"PALMER, ALEXANDRA Dr",AC,2104AC003/GW1,Sustainable aquaculture,Wellcome Trust,Lead dept costings,WT,FY 2021,Generic v2,Standard,Application,Unknown,£0.00,0,0,91.25,0,0%,1,1
+"Ippolito, Angelo",AC,2104AC004/GW1,UNEP,Wellcome Trust,Lead dept costings,WT,FY 2021,Generic v2,Standard,Application,Approved by funder,"£14,328.00",1,1,91.25,0,100%,0,0
+"FUCKAR, NEVEN-STJEPAN Dr",AC,2106AC002/GW1,Salubrious Dynamic Geography,Wellcome Trust,Lead dept costings,WT,FY 2122,Generic v2,Standard,Re-cost,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Jokela-Pansini, Maaret",AC,2110AC001/NS4,Experiencing long covid,Wellcome Trust,Lead dept costings,WT,FY 2122,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"LORIMER, JAMIE Prof",AC,2209BZ006/LB10,SHIFT,Wellcome Trust,Collaborating dept costings,WT,FY 2223,Generic v2,Standard,Application,Approved by funder,"£145,134.63",1,1,91.25,0,100%,0,0
+"LORIMER, JAMIE Prof",AC,2303BZ001/LB10,LEAP2,Wellcome Trust,Collaborating dept costings,WT,FY 2223,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"GARNETT, TARA Dr",AF,2209BZ006/LB10,SHIFT,Wellcome Trust,Collaborating dept costings,WT,FY 2223,Generic v2,Standard,Application,Approved by funder,"£48,443.63",1,1,91.25,0,100%,0,0
+"GARNETT, TARA Dr",AF,2303BZ001/LB10,LEAP2,Wellcome Trust,Collaborating dept costings,WT,FY 2223,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"CLARK, MICHAEL Mr",LD,2209BZ006/LB10,SHIFT,Wellcome Trust,Collaborating dept costings,WT,FY 2223,Generic v2,Standard,Application,Approved by funder,"£185,371.83",1,1,91.25,0,100%,0,0
+"CLARK, MICHAEL Mr",LD,2303BZ001/LB10,LEAP2,Wellcome Trust,Collaborating dept costings,WT,FY 2223,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"KHAN, NAMEERAH Dr",AC,2405AC004/VS1,Water Contamination,Wellcome Trust,Lead dept costings,WT,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"Gebrechorkos, Solomon Dr",AC,2406AC002/VS1,Hydroclimate Extremes,Wellcome Trust,Lead dept costings,WT,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"FUCKAR, NEVEN-STJEPAN Dr",AF,2402LE001/DL6,Climate impacts,Wellcome Trust,Collaborating dept costings,WT,FY 2324,Generic v2,Standard,Application,Approved by funder,"£212,474.20",1,1,91.25,0,100%,0,0
+"STUART-SMITH, RUPERT Mr",LD,2401LD001/IP1,SLP_Wellcome_Attriverse,Wellcome Trust,Lead dept costings,WT,FY 2324,Generic v2,Standard,Application,Approved by funder,"£270,443.49",1,1,91.25,0,100%,0,0
+"Sheikh, Hassan Mr",LD,2405LD001/VS1,Stacked health benefits nature,Wellcome Trust,Lead dept costings,WT,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HOQUE, SONIA Dr",LD,2405LD002/VS1,Water Salinity in Bangladesh,Wellcome Trust,Lead dept costings,WT,FY 2324,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"FUCKAR, NEVEN-STJEPAN Dr",AF,2504AF003/VS1,CACHE,Wellcome Trust,Lead dept costings,WT,FY 2425,Generic v2,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"FUCKAR, NEVEN-STJEPAN Dr",AF,2504AF004/VS1,TRACE,Wellcome Trust,Lead dept costings,WT,FY 2425,Generic v2,Standard,Application,Approved by funder,£0.00,1,1,91.25,0,100%,0,0
+"Kirksey, Eben",AC,2110AC005/GW1,Living with virues,Wellcome Trust,Lead dept costings,WT,FY 2122,XXInvestigator Award,Standard,Application,Rejected by funder,£0.00,0,0,91.25,0,0%,1,1
+"HUGHES-LEAVER, JOCELYNE Dr",AC,2010AT013/TW1,Disentangling the triggers,Wessex Water Services Ltd,Collaborating dept costings,WWS,FY 2021,Costing template for business funders (standard),Standard,Application,Approved by funder,"£9,325.03",1,1,91.25,0,100%,0,0
+"CALDECOTT, BENJAMIN Dr",LD,2402LD001/JH13,ISFP Hewlett,William and Flora Hewlett Foundation,Lead dept costings,HEWLETTF,FY 2324,Generic,Standard,Application,Approved by funder,"£566,667.07",1,1,91.25,0,100%,0,0
+"HALL, JAMES Prof",AF,2204AF002/GW1,GRI,World Bank,Lead dept costings,WORLDBNK,FY 2122,Generic,Standard,Application,Approved by funder,"£192,008.65",1,1,91.25,0,100%,0,0
+FY 2021,AC Count,,,,,,31,,,,,"£3,456,228.60",,8,,,,,
+FY 2021,AF Count,,,,,,28,,,,,"£5,036,071.01",,10,,,,,
+FY 2021,JQ Count,,,,,,3,,,,,"£242,504.00",,1,,,,,
+FY 2021,LD Count,,,,,,19,,,,,"£8,289,683.80",,10,,,,,
+,Grand Count,,,,,,81,,,,,"£17,024,487.41",,29,,,,,
+,,,,,,,,,,,,,,,,,,,
+FY 2122,AC Count,,,,,,37,,,,,"£2,625,665.68",,16,,,,,
+FY 2122,AF Count,,,,,,22,,,,,"£3,956,602.01",,11,,,,,
+FY 2122,JQ Count,,,,,,5,,,,,"£238,412.00",,1,,,,,
+FY 2122,LD Count,,,,,,14,,,,,"£872,327.25",,6,,,,,
+,Grand Count,,,,,,78,,,,,"£7,693,006.94",,34,,,,,
+,,,,,,,,,,,,,,,,,,,
+FY 2223,AC Count,,,,,,27,,,,,"£1,385,831.43",,8,,,,,
+FY 2223,AF Count,,,,,,22,,,,,"£1,320,352.69",,11,,,,,
+FY 2223,JQ Count,,,,,,7,,,,,"£224,916.00",,2,,,,,
+FY 2223,LD Count,,,,,,22,,,,,"£1,227,354.63",,10,,,,,
+,Grand Count,,,,,,78,,,,,"£4,158,454.75",,31,,,,,
+,,,,,,,,,,,,,,,,,,,
+FY 2324,AC Count,,,,,,39,,,,,"£1,609,732.19",,9,,,,,
+FY 2324,AF Count,,,,,,45,,,,,"£1,960,023.12",,13,,,,,
+FY 2324,JQ Count,,,,,,14,,,,,"£278,336.25",,2,,,,,
+FY 2324,LD Count,,,,,,31,,,,,"£1,291,705.34",,11,,,,,
+,Grand Count,,,,,,129,,,,,"£5,139,796.90",,35,,,,,
+,,,,,,,,,,,,,,,,,,,
+FY 2425,AC Count,,,,,,52,,,,,"£1,354,281.94",,8,,,,,
+FY 2425,AF Count,,,,,,46,,,,,"£1,002,319.23",,8,,,,,
+FY 2425,JQ Count,,,,,,11,,,,,"£254,474.89",,2,,,,,
+FY 2425,LD Count,,,,,,24,,,,,"£492,498.11",,3,,,,,
+,Grand Count,,,,,,133,,,,,"£3,103,574.17",,21,,,,,
+,,,,,,,,,,,,,,,,,,,
+FYTD 2526,AC Count,,,,,,28,,,,,,,,,,,,
+FYTD 2526,AF Count,,,,,,31,,,,,,,,,,,,
+FYTD 2526,JQ Count,,,,,,2,,,,,,,,,,,,
+FYTD 2526,LD Count,,,,,,10,,,,,,,,,,,,
+,Grand Count,,,,,,71,,,,,,,,,,,,
