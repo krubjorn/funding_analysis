@@ -21,7 +21,7 @@ st.caption("Interactive dashboard built.")
 # Replace these with the raw URLs from your GitHub repo
 # ============================================================
 FUNDING_CSV_URL = "https://raw.githubusercontent.com/krubjorn/funding-dashboard/main/projectsearch.csv"
-SUCCESS_XLSX_URL = "https://raw.githubusercontent.com/krubjorn/funding-dashboard/main/Success_rate_data.xlsx"
+SUCCESS_CSV_URL = "https://raw.githubusercontent.com/krubjorn/funding-dashboard/main/success_rate_data.csv"
 
 # ============================================================
 # Column names
@@ -75,7 +75,7 @@ def load_data():
 
     # Success rate data
     df_success_raw = load_excel_from_github(
-        SUCCESS_XLSX_URL,
+        SUCCESS_CSV_URL,
         sheet_name="Success rate 2020-21 to present"
     )
 
