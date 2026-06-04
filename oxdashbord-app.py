@@ -18,7 +18,6 @@ st.caption("Interactive dashboard built.")
 
 # ============================================================
 # GitHub raw file URLs
-# Replace these with the raw URLs from your GitHub repo
 # ============================================================
 FUNDING_CSV_URL = "https://raw.githubusercontent.com/krubjorn/funding-dashboard/main/projectsearch.csv"
 SUCCESS_CSV_URL = "https://raw.githubusercontent.com/krubjorn/funding-dashboard/main/success_rate_data.csv"
@@ -51,12 +50,6 @@ def load_csv_from_github(url: str) -> pd.DataFrame:
     return pd.read_csv(io.StringIO(response.text))
 
 @st.cache_data(show_spinner=True)
-def load_excel_from_github(url: str, sheet_name: str) -> pd.DataFrame:
-    response = requests.get(url, timeout=60)
-    response.raise_for_status()
-    return pd.read_excel(io.BytesIO(response.content), sheet_name=sheet_name)
-
-@st.cache_data(show_spinner=True)
 def load_data():
     # Funding data
     df_funding_raw = load_csv_from_github(FUNDING_CSV_URL)
@@ -73,11 +66,10 @@ def load_data():
     df_oxford[COL_AWARD] = pd.to_numeric(df_oxford[COL_AWARD], errors="coerce")
     df_oxford["StartYear"] = df_oxford[COL_START].dt.year
 
-    # Success rate data
-    df_success_raw = load_excel_from_github(
-        SUCCESS_CSV_URL,
-        sheet_name="Success rate 2020-21 to present"
-    )
+@st.cache_data(show_spinner=True)
+def load_data():
+    # Funding data
+    df_success_raw = load_csv_from_github(SUCCESS_CSV_URL)
 
     def extract_year(value):
         if pd.isna(value):
